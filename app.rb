@@ -10,11 +10,11 @@ require 'townhalls_scrapper'
 require 'utils'
 
 
-#scrapping = Scrapping.new
-#mairies = scrapping.perform
+scrapping = Scrapping.new
+mairies = scrapping.perform
 
 tools = Utils.new
-#tools.saveObjects("Mairie",mairies,"scrap_mairie.json")
+tools.saveObjects("Mairie",mairies,"scrap_mairie.json")
 
 mairies = tools.loadObjects("scrap_mairie.json")
 mairies.each{
