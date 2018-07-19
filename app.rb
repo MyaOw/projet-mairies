@@ -26,6 +26,7 @@ mairies.each{
     |mairie| 
 #    puts "#{mairie.name} - #{mairie.departement} - #{mairie.email}"
 # Mailer.new.send_mail(mairie.email, mairie.name)
+Follow.new.search_mairie(mairie.name)
 }
 
 Mailer.new.send_mail(mairies[5].email, mairies[5].name)
