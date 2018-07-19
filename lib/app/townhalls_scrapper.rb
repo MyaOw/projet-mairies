@@ -1,7 +1,4 @@
-require 'rubygems'
-require 'nokogiri'
-require 'open-uri'
-require 'json'
+
 require_relative "mairie_scrapper"
 
 class Scrapping
@@ -25,24 +22,29 @@ class Scrapping
 end
   
   
-  def perform
+  def perform(log)
     mairies = []
-    array = ["rhone", "rhone-2", "loire", "drome", "drome-2"]
+    array = ["drome", "drome-2"]
+    
     array.each do |x|    
 
-    url_all = departement_page(x)  # Rapporte les pages de département depuis l'array
-    url_all.each do |url| 
-      name = url.text   # Nom de la mairie
-      dep = mairie_dept(url['href'].sub("./", "http://annuaire-des-mairies.com/"))  # Département de la mairie
-      mail = mairie_page(url['href'].sub("./", "http://annuaire-des-mairies.com/"))   # Mail de la mairie
-      mairies.push(Mairie.new(name, dep, mail))   # Ajoute ces infos dans un array
-    end
-    end
+      puts "[Scrapping] Traitement du departement : #{x}" if log
+      count = 0
+      url_all = departement_page(x)  # Rapporte les pages de département depuis l'array
+      
+        url_all.each do |url|
+        count = count + 1    
+        name = url.text   # Nom de la mairie
+        puts "[Scrapping] Traitement de la mairie : #{name}" if log
+        dep = mairie_dept(url['href'].sub("./", "http://annuaire-des-mairies.com/"))  # Département de la mairie
+        mail = mairie_page(url['href'].sub("./", "http://annuaire-des-mairies.com/"))   # Mail de la mairie
+        mairies.push(Mairie.new(name, dep, mail))   # Ajoute ces infos dans un array
+      end
+      puts "[Scrapping] Fin du traitement de  #{x}, il y a eu #{count} mairies traitées." if log        
+    end 
     
-    mairies.each{
-      |mairie| puts "#{mairie.name} #{mairie.departement} #{mairie.email}"
-    }
-    
+      Utils.save_town(mairies,"town.json",log)        
+
   end
 end
 

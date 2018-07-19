@@ -1,32 +1,26 @@
-# projet-mairies
 require 'bundler'
-require 'gmail'
-require 'rubygems'
-require 'json'
-require 'dotenv'
-Dotenv.load
 Bundler.require
 
 $:.unshift File.expand_path("./../lib/app", __FILE__)
+$:.unshift File.expand_path("./../lib/views", __FILE__)
 require 'townhalls_adder_to_db'
 require 'townhalls_follower'
 require 'townhalls_mailer'
 require 'townhalls_scrapper'
 require 'utils'
+require 'index'
+require 'done'
 
 
-#scrapping = Scrapping.new
-#mairies = scrapping.perform
+require 'gmail'
+require 'rubygems'
+require 'json'
+require 'dotenv'
+require 'nokogiri'
+require 'open-uri'
+require 'twitter'
 
-tools = Utils.new
-#tools.saveObjects("Mairie",mairies,"scrap_mairie.json")
+Dotenv.load #to loead the keys from the .env file or #Dotenv.load("path/../../.env")  
 
-mairies = tools.loadObjects("scrap_mairie.json")
-mairies.each{
-    |mairie| 
-#    puts "#{mairie.name} - #{mairie.departement} - #{mairie.email}"
-# Mailer.new.send_mail(mairie.email, mairie.name)
-Follow.new.search_mairie(mairie.name)
-}
-
-Mailer.new.send_mail(mairie.email, mairie.name)
+# Lancement de l'application
+Index.perform

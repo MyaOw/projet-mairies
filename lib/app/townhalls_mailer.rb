@@ -1,5 +1,16 @@
 class Mailer
   
+  def perform(mairies,log)
+
+   puts "[Mailing] Traitement des emails" if log
+      
+   mairies.each{
+    |mairie| 
+        puts "[Mailing] Envoi un email à la mairie de #{mairie.name}" if log  
+        #send_mail(mairie.email, mairie.name)
+  }
+  end         
+  
   #envoi un mail a sent_to, mairie est un paramettre utiisé dans le corps du mail    
   def send_mail(send_to, mairie)
     Gmail.connect(ENV["GMAIL_LOGIN"], ENV["GMAIL_PASS"]) do |gmail|
