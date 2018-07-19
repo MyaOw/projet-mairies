@@ -53,5 +53,4 @@ end
     
   end
 end
-scrapping = Scrapping.new
-scrapping.perform
+
