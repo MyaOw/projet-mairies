@@ -31,7 +31,8 @@ The program sends e-mails like crazy, with the following message:
 
 ### Twitting
 Social network can be wonderful to spam people. The Get-Mail-Corp told us to write a script that searchs and follow the first result that appears in twitter when you search the name of the townhall. Crazy, right? But they have the money and we need it.
- More seriously:
+
+More seriously:
 -----------------
 
 This is a program that does everything mentionned before, but our team doesn't like getting spammed, so we do NOT spam others either.
@@ -80,6 +81,8 @@ You might need to charge your own Twitter and Gmail credentials in the .env file
 └── README.md
 ```
 
+**With love, for you
+by Jihane, Mario, Fabrice, Pauline & Carlos** 
 
 
 
