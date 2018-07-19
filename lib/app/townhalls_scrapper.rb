@@ -42,12 +42,7 @@ end
     mairies.each{
       |mairie| puts "#{mairie.name} #{mairie.departement} #{mairie.email}"
     }
-    
-    File.open("../../db/scrap.json","w") do |f|
-      mairies.each{
-        |mairie|
-        f.write(JSON.pretty_generate(mairie.as_json))   # Ajoute les résultats au json
-      }
+  
       
     end
     
