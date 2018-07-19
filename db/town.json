@@ -1,4 +1,2520 @@
 {"Mairie":[{
+  "name": "AFFOUX",
+  "departement": "RHONE",
+  "email": "mairie_affoux@hotmail.fr"
+},{
+  "name": "AIGUEPERSE",
+  "departement": "RHONE",
+  "email": "aigueperse.mairie.69@free.fr"
+},{
+  "name": "ALBIGNY SUR SAONE",
+  "departement": "RHONE",
+  "email": "gc@mairie-albignysursaone.fr"
+},{
+  "name": "ALIX",
+  "departement": "RHONE",
+  "email": "mairie@alix-village.fr"
+},{
+  "name": "AMBERIEUX",
+  "departement": "RHONE",
+  "email": "amberieux-69@wanadoo.fr"
+},{
+  "name": "AMPLEPUIS",
+  "departement": "RHONE",
+  "email": "mairie@amplepuis.mairies69.net"
+},{
+  "name": "AMPUIS",
+  "departement": "RHONE",
+  "email": "mairie@ampuis.com"
+},{
+  "name": "ANCY",
+  "departement": "RHONE",
+  "email": "mairieancy@numericable.com"
+},{
+  "name": "ANSE",
+  "departement": "RHONE",
+  "email": "mairie@mairie-anse.com"
+},{
+  "name": "ARNAS",
+  "departement": "RHONE",
+  "email": "mairie.arnas@wanadoo.fr"
+},{
+  "name": "AVEIZE",
+  "departement": "RHONE",
+  "email": "mairie.aveize@cc-hauts-du-lyonnais.fr"
+},{
+  "name": "AVENAS",
+  "departement": "RHONE",
+  "email": "avenas.mairie@chello.fr"
+},{
+  "name": "AZOLETTE",
+  "departement": "RHONE",
+  "email": "m.deazolette@numericable.com"
+},{
+  "name": "BAGNOLS",
+  "departement": "RHONE",
+  "email": "mairie@bagnols.org"
+},{
+  "name": "BEAUJEU",
+  "departement": "RHONE",
+  "email": "mairiebeaujeu@wanadoo.fr"
+},{
+  "name": "BELLEVILLE",
+  "departement": "RHONE",
+  "email": ""
+},{
+  "name": "BELMONT D AZERGUES",
+  "departement": "RHONE",
+  "email": "secretariat@belmont.mairies69.net"
+},{
+  "name": "BESSENAY",
+  "departement": "RHONE",
+  "email": "mairie@mairie-bessenay.fr"
+},{
+  "name": "BIBOST",
+  "departement": "RHONE",
+  "email": ""
+},{
+  "name": "BLACE",
+  "departement": "RHONE",
+  "email": "mairie.blace@wanadoo.fr"
+},{
+  "name": "BOURG DE THIZY",
+  "departement": "RHONE",
+  "email": "mairie.bourg.de.thizy@wanadoo.fr"
+},{
+  "name": "BRIGNAIS",
+  "departement": "RHONE",
+  "email": "mairie@brignais.fr"
+},{
+  "name": "BRINDAS",
+  "departement": "RHONE",
+  "email": "brindas@coteaux-lyonnais.com"
+},{
+  "name": "BRON",
+  "departement": "RHONE",
+  "email": "bronenligne@ville-bron.fr"
+},{
+  "name": "BRULLIOLES",
+  "departement": "RHONE",
+  "email": ""
+},{
+  "name": "BRUSSIEU",
+  "departement": "RHONE",
+  "email": "brussieu@erasme.org"
+},{
+  "name": "BULLY",
+  "departement": "RHONE",
+  "email": "mairie@bully.fr"
+},{
+  "name": "CAILLOUX SUR FONTAINES",
+  "departement": "RHONE",
+  "email": "mairie-cailloux@wanadoo.fr"
+},{
+  "name": "CALUIRE ET CUIRE",
+  "departement": "RHONE",
+  "email": "mairie@ville-caluire.fr"
+},{
+  "name": "CENVES",
+  "departement": "RHONE",
+  "email": "contact@cenves.org"
+},{
+  "name": "CERCIE",
+  "departement": "RHONE",
+  "email": "Mairie.cercie@wanadoo.fr"
+},{
+  "name": "CHAMBOST ALLIERES",
+  "departement": "RHONE",
+  "email": "secretariat@chambost-allieres.mairies69.net"
+},{
+  "name": "CHAMBOST LONGESSAIGNE",
+  "departement": "RHONE",
+  "email": "mairie.chambost@free.fr"
+},{
+  "name": "CHAMELET",
+  "departement": "RHONE",
+  "email": "de_chamelet.mairie@numericable.com"
+},{
+  "name": "CHAMPAGNE AU MONT D OR",
+  "departement": "RHONE",
+  "email": "accueil@mairie-champagne-mont-dor.fr"
+},{
+  "name": "CHAPONNAY",
+  "departement": "RHONE",
+  "email": "mairie@mairie-chaponnay.fr"
+},{
+  "name": "CHAPONOST",
+  "departement": "RHONE",
+  "email": "contact@mairie-chaponost.fr"
+},{
+  "name": "CHARBONNIERES LES BAINS",
+  "departement": "RHONE",
+  "email": "mairie@charbonniereslesbains.com"
+},{
+  "name": "CHARENTAY",
+  "departement": "RHONE",
+  "email": "contacts@mairie-charentay.fr"
+},{
+  "name": "CHARLY",
+  "departement": "RHONE",
+  "email": "accueil@mairie-charly.fr"
+},{
+  "name": "CHARNAY",
+  "departement": "RHONE",
+  "email": "mairie@charnay69.fr"
+},{
+  "name": "CHASSAGNY",
+  "departement": "RHONE",
+  "email": "mairie.chassagny@cc-paysmornantais.fr"
+},{
+  "name": "CHASSELAY",
+  "departement": "RHONE",
+  "email": "mairie.de_chasselay@numericable.com"
+},{
+  "name": "CHASSIEU",
+  "departement": "RHONE",
+  "email": "web.comm@mairie-chassieu.fr"
+},{
+  "name": "CHATILLON",
+  "departement": "RHONE",
+  "email": ""
+},{
+  "name": "CHAUSSAN",
+  "departement": "RHONE",
+  "email": "mairie.chaussan@cc-paysmornantais.fr"
+},{
+  "name": "CHAZAY D AZERGUES",
+  "departement": "RHONE",
+  "email": ""
+},{
+  "name": "CHENAS",
+  "departement": "RHONE",
+  "email": "mairie@chenas.org"
+},{
+  "name": "CHENELETTE",
+  "departement": "RHONE",
+  "email": "mairie@chenelette.fr"
+},{
+  "name": "CHESSY",
+  "departement": "RHONE",
+  "email": ""
+},{
+  "name": "CHEVINAY",
+  "departement": "RHONE",
+  "email": "mairie@chevinay.mairies69.net"
+},{
+  "name": "CHIROUBLES",
+  "departement": "RHONE",
+  "email": "secretariat@chiroubles.fr"
+},{
+  "name": "CIVRIEUX D AZERGUES",
+  "departement": "RHONE",
+  "email": "mairie.de.civrieux.dazergues@wanadoo.fr"
+},{
+  "name": "CLAVEISOLLES",
+  "departement": "RHONE",
+  "email": ""
+},{
+  "name": "COGNY",
+  "departement": "RHONE",
+  "email": ""
+},{
+  "name": "COISE",
+  "departement": "RHONE",
+  "email": "mairie.coise@cc-hauts-du-lyonnais.fr "
+},{
+  "name": "COLLONGES AU MONT D OR",
+  "departement": "RHONE",
+  "email": "mairie.collonges@wanadoo.fr"
+},{
+  "name": "COLOMBIER SAUGNIEU",
+  "departement": "RHONE",
+  "email": "mairie@mairie-colombiersaugnieu.fr"
+},{
+  "name": "COMMUNAY",
+  "departement": "RHONE",
+  "email": ""
+},{
+  "name": "CONDRIEU",
+  "departement": "RHONE",
+  "email": "mairie@condrieu.fr"
+},{
+  "name": "CORBAS",
+  "departement": "RHONE",
+  "email": "communication@ville-corbas.fr"
+},{
+  "name": "CORCELLES EN BEAUJOLAIS",
+  "departement": "RHONE",
+  "email": "secretariat@corcelles-en-beaujolais.mairies69.net"
+},{
+  "name": "COURS LA VILLE",
+  "departement": "RHONE",
+  "email": "contact@courslaville.fr"
+},{
+  "name": "COURZIEU",
+  "departement": "RHONE",
+  "email": "courzieu-en-lyonnais@wanadoo.fr "
+},{
+  "name": "COUZON AU MONT D OR",
+  "departement": "RHONE",
+  "email": "mairie-couzon@wanadoo.fr"
+},{
+  "name": "CRAPONNE",
+  "departement": "RHONE",
+  "email": "infomairie@mairie-craponne.fr"
+},{
+  "name": "CUBLIZE",
+  "departement": "RHONE",
+  "email": "cublize.mairie@numericable.com"
+},{
+  "name": "CURIS AU MONT D OR",
+  "departement": "RHONE",
+  "email": "accueil@curis.fr"
+},{
+  "name": "DARDILLY",
+  "departement": "RHONE",
+  "email": "contact@mairie-dardilly.fr"
+},{
+  "name": "DAREIZE",
+  "departement": "RHONE",
+  "email": "accueil@dareize.mairies69.net"
+},{
+  "name": "DECINES CHARPIEU",
+  "departement": "RHONE",
+  "email": "mairie@mairie-decines.fr"
+},{
+  "name": "DENICE",
+  "departement": "RHONE",
+  "email": "mairie-denice@wanadoo.fr"
+},{
+  "name": "DIEME",
+  "departement": "RHONE",
+  "email": "mairie@dieme.com"
+},{
+  "name": "DOMMARTIN",
+  "departement": "RHONE",
+  "email": "mairie.dommartin@wanadoo.fr"
+},{
+  "name": "DRACE",
+  "departement": "RHONE",
+  "email": "mairiedrace@wanadoo.fr"
+},{
+  "name": "DUERNE",
+  "departement": "RHONE",
+  "email": "mairie.duerne@cc-hauts-du-lyonnais.fr"
+},{
+  "name": "ECHALAS",
+  "departement": "RHONE",
+  "email": "contact@mairie-echalas.fr"
+},{
+  "name": "ECULLY",
+  "departement": "RHONE",
+  "email": "mairie@ville-ecully.fr"
+},{
+  "name": "EMERINGES",
+  "departement": "RHONE",
+  "email": "mairie.emeringes@wanadoo.fr"
+},{
+  "name": "EVEUX",
+  "departement": "RHONE",
+  "email": "mairie-eveux@wanadoo.fr"
+},{
+  "name": "FEYZIN",
+  "departement": "RHONE",
+  "email": "p.arnould@ville-feyzin.fr"
+},{
+  "name": "FLEURIE",
+  "departement": "RHONE",
+  "email": "info@fleurie.org"
+},{
+  "name": "FLEURIEU SUR SAONE",
+  "departement": "RHONE",
+  "email": "mairie.fleurieusursaone@wanadoo.fr"
+},{
+  "name": "FLEURIEUX SUR L ARBRESLE",
+  "departement": "RHONE",
+  "email": "mairie.fleurieux.arbresle@wanadoo.fr"
+},{
+  "name": "FONTAINES SAINT MARTIN",
+  "departement": "RHONE",
+  "email": " info@fontaines-saint-martin.fr"
+},{
+  "name": "FONTAINES SUR SAONE",
+  "departement": "RHONE",
+  "email": "fontaines-sur-saone@wanadoo.fr"
+},{
+  "name": "FRANCHEVILLE",
+  "departement": "RHONE",
+  "email": "contact@mairie-francheville69.fr"
+},{
+  "name": "FRONTENAS",
+  "departement": "RHONE",
+  "email": "mairie.frontenas@wanadoo.fr"
+},{
+  "name": "GENAS",
+  "departement": "RHONE",
+  "email": "accueil@ville-genas.fr"
+},{
+  "name": "GENAY",
+  "departement": "RHONE",
+  "email": "genay.info@free.fr"
+},{
+  "name": "GIVORS",
+  "departement": "RHONE",
+  "email": "jravery@sitiv.fr"
+},{
+  "name": "GLEIZE",
+  "departement": "RHONE",
+  "email": "contact@mairie-gleize.fr"
+},{
+  "name": "GRANDRIS",
+  "departement": "RHONE",
+  "email": "info@grandris.mairies69.net"
+},{
+  "name": "GREZIEU LA VARENNE",
+  "departement": "RHONE",
+  "email": "grezieu@mairie-grezieulavarenne.fr"
+},{
+  "name": "GREZIEU LE MARCHE",
+  "departement": "RHONE",
+  "email": "mairie.grezieu-le-marche@cc-hauts-du-lyonnais.fr"
+},{
+  "name": "GRIGNY",
+  "departement": "RHONE",
+  "email": "accueil@mairie-grigny69.fr"
+},{
+  "name": "HAUTE RIVOIRE",
+  "departement": "RHONE",
+  "email": "hterivoi@erasme.org"
+},{
+  "name": "IRIGNY",
+  "departement": "RHONE",
+  "email": "mairie.d-irigny@wanadoo.fr"
+},{
+  "name": "JARNIOUX",
+  "departement": "RHONE",
+  "email": "mairie@jarnioux.mairies69.net"
+},{
+  "name": "JONAGE",
+  "departement": "RHONE",
+  "email": "mairie-jonage@wanadoo.fr"
+},{
+  "name": "JONS",
+  "departement": "RHONE",
+  "email": "mairie.jons@orange.fr"
+},{
+  "name": "JOUX",
+  "departement": "RHONE",
+  "email": "mairie.dejoux@laposte.net"
+},{
+  "name": "JULIENAS",
+  "departement": "RHONE",
+  "email": "mairie@julienas.fr"
+},{
+  "name": "JULLIE",
+  "departement": "RHONE",
+  "email": "mairie.jullie@wanadoo.fr"
+},{
+  "name": "LACENAS",
+  "departement": "RHONE",
+  "email": "mairie.lacenas@wanadoo.fr"
+},{
+  "name": "LA CHAPELLE DE MARDORE",
+  "departement": "RHONE",
+  "email": "lachapelledemardore@wanadoo.fr"
+},{
+  "name": "LA CHAPELLE SUR COISE",
+  "departement": "RHONE",
+  "email": "mairie.la-chapelle-sur-coise@cc-hauts-du-lyonnais.fr"
+},{
+  "name": "LACHASSAGNE",
+  "departement": "RHONE",
+  "email": "mairie.lachassagne@wanadoo.fr"
+},{
+  "name": "LA MULATIERE",
+  "departement": "RHONE",
+  "email": "mairie@lamulatiere.fr"
+},{
+  "name": "LAMURE SUR AZERGUES",
+  "departement": "RHONE",
+  "email": "mairie@lamuresurazergues.com"
+},{
+  "name": "LANCIE",
+  "departement": "RHONE",
+  "email": "mairiedelancie@wanadoo.fr"
+},{
+  "name": "LANTIGNIE",
+  "departement": "RHONE",
+  "email": "secretariat@lantignie.mairies69.net"
+},{
+  "name": "LARAJASSE",
+  "departement": "RHONE",
+  "email": "larajasse@yahoo.fr"
+},{
+  "name": "L ARBRESLE",
+  "departement": "RHONE",
+  "email": "contactmairie@mairie-larbresle.fr"
+},{
+  "name": "LA TOUR DE SALVAGNY",
+  "departement": "RHONE",
+  "email": "mairie.latour@salvagny.org"
+},{
+  "name": "LE BOIS D OINGT",
+  "departement": "RHONE",
+  "email": "mairie-le-bois-d-oingt@wanadoo.fr"
+},{
+  "name": "LE BREUIL",
+  "departement": "RHONE",
+  "email": "BREUIL71-FR@libertysurf.fr"
+},{
+  "name": "LEGNY",
+  "departement": "RHONE",
+  "email": " bureau@legny.mairies69.net "
+},{
+  "name": "LENTILLY",
+  "departement": "RHONE",
+  "email": "mairie@mairie-lentilly.fr"
+},{
+  "name": "LE PERREON",
+  "departement": "RHONE",
+  "email": "mairie@perreon.mairies69.net"
+},{
+  "name": "LES ARDILLATS",
+  "departement": "RHONE",
+  "email": "secretariat@lesardillats.mairies69.net"
+},{
+  "name": "LES CHERES",
+  "departement": "RHONE",
+  "email": "mairie.les.cheres@wanadoo.fr"
+},{
+  "name": "LES HAIES",
+  "departement": "RHONE",
+  "email": "mairie.leshaies@numericable.com"
+},{
+  "name": "LES HALLES",
+  "departement": "RHONE",
+  "email": "lhalles@erasme.org"
+},{
+  "name": "LES OLMES",
+  "departement": "RHONE",
+  "email": "mairie.lesolmes@wanadoo.fr"
+},{
+  "name": "LES SAUVAGES",
+  "departement": "RHONE",
+  "email": "mairielessauvages@chello.fr"
+},{
+  "name": "LETRA",
+  "departement": "RHONE",
+  "email": "letra@letra.mairies69.net"
+},{
+  "name": "LIERGUES",
+  "departement": "RHONE",
+  "email": "mairiedeliergues@wanadoo.fr"
+},{
+  "name": "LIMAS",
+  "departement": "RHONE",
+  "email": "contact@limas.mairies69.net"
+},{
+  "name": "LIMONEST",
+  "departement": "RHONE",
+  "email": "contact@mairie-limonest.fr"
+},{
+  "name": "LISSIEU",
+  "departement": "RHONE",
+  "email": "mairie.de.lissieu@wanadoo.fr"
+},{
+  "name": "LOIRE SUR RHONE",
+  "departement": "RHONE",
+  "email": "mairie@loire-sur-rhone.fr"
+},{
+  "name": "LONGES",
+  "departement": "RHONE",
+  "email": "mairie@longes.fr"
+},{
+  "name": "LONGESSAIGNE",
+  "departement": "RHONE",
+  "email": "longessa@erasme.org"
+},{
+  "name": "LOZANNE",
+  "departement": "RHONE",
+  "email": "mairie.lozanne@wanadoo.fr"
+},{
+  "name": "LUCENAY",
+  "departement": "RHONE",
+  "email": "mairie@lucenay.fr"
+},{
+  "name": "LYON",
+  "departement": "RHONE",
+  "email": "webmaster@mairie-lyon.fr"
+},{
+  "name": "LYON SECTEUR 01",
+  "departement": "RHONE",
+  "email": "mairie1@mairie-lyon.fr"
+},{
+  "name": "LYON SECTEUR 02",
+  "departement": "RHONE",
+  "email": "mairie2@mairie-lyon.fr"
+},{
+  "name": "LYON SECTEUR 03",
+  "departement": "RHONE",
+  "email": "mairie3@mairie-lyon.fr"
+},{
+  "name": "LYON SECTEUR 04",
+  "departement": "RHONE",
+  "email": "mairie4@mairie-lyon.fr"
+},{
+  "name": "LYON SECTEUR 05",
+  "departement": "RHONE",
+  "email": "mairie5@mairie-lyon.fr"
+},{
+  "name": "LYON SECTEUR 06",
+  "departement": "RHONE",
+  "email": "mairie6@mairie-lyon.fr"
+},{
+  "name": "LYON SECTEUR 07",
+  "departement": "RHONE",
+  "email": "mairie7@mairie-lyon.fr"
+},{
+  "name": "LYON SECTEUR 08",
+  "departement": "RHONE",
+  "email": "mairie8@mairie-lyon.fr"
+},{
+  "name": "LYON SECTEUR 09",
+  "departement": "RHONE",
+  "email": "mairie9@mairie-lyon.fr"
+},{
+  "name": "MARCHAMPT",
+  "departement": "RHONE",
+  "email": "maire.marchampt@laposte.net"
+},{
+  "name": "MARCILLY D AZERGUES",
+  "departement": "RHONE",
+  "email": "m.demarcillydazergues@numericable.com"
+},{
+  "name": "MARCY",
+  "departement": "RHONE",
+  "email": "mairie.marcysuranse@wanadoo.fr"
+},{
+  "name": "MARCY L ETOILE",
+  "departement": "RHONE",
+  "email": "communication@mairie-marcy-l-etoile.fr"
+},{
+  "name": "MARDORE",
+  "departement": "RHONE",
+  "email": ""
+},{
+  "name": "MARENNES",
+  "departement": "RHONE",
+  "email": "marennes69@wanadoo.fr"
+},{
+  "name": "MARNAND",
+  "departement": "RHONE",
+  "email": "communemarnand@wanadoo.fr"
+},{
+  "name": "MEAUX LA MONTAGNE",
+  "departement": "RHONE",
+  "email": "mairie-meaux-la-montagne@wanadoo.fr"
+},{
+  "name": "MESSIMY",
+  "departement": "RHONE",
+  "email": "mairie@mairie-messimy.fr"
+},{
+  "name": "MEYS",
+  "departement": "RHONE",
+  "email": "mairie.meys@cc-hauts-du-lyonnais.fr"
+},{
+  "name": "MEYZIEU",
+  "departement": "RHONE",
+  "email": "contact@mairie-meyzieu.fr"
+},{
+  "name": "MILLERY",
+  "departement": "RHONE",
+  "email": "mairiedemillery@wanadoo.fr"
+},{
+  "name": "MIONS",
+  "departement": "RHONE",
+  "email": "communication@ville-mions.fr"
+},{
+  "name": "MOIRE",
+  "departement": "RHONE",
+  "email": "mairie.moire@wanadoo.fr"
+},{
+  "name": "MONSOLS",
+  "departement": "RHONE",
+  "email": "mairie@monsols.fr"
+},{
+  "name": "MONTAGNY",
+  "departement": "RHONE",
+  "email": "mairie.montagny@montagny69.fr"
+},{
+  "name": "MONTANAY",
+  "departement": "RHONE",
+  "email": "gilbert.suchet@commune-montanay.fr"
+},{
+  "name": "MONTMELAS SAINT SORLIN",
+  "departement": "RHONE",
+  "email": ""
+},{
+  "name": "MONTROMANT",
+  "departement": "RHONE",
+  "email": "montroma@erasme.org"
+},{
+  "name": "MONTROTTIER",
+  "departement": "RHONE",
+  "email": "montrott@erasme.org"
+},{
+  "name": "MORANCE",
+  "departement": "RHONE",
+  "email": "mairiemorance@wanadoo.fr"
+},{
+  "name": "MORNANT",
+  "departement": "RHONE",
+  "email": "communication@ville-mornant.fr"
+},{
+  "name": "NEUVILLE SUR SAONE",
+  "departement": "RHONE",
+  "email": "accueil@mairie-neuvillesursaone.fr"
+},{
+  "name": "NUELLES",
+  "departement": "RHONE",
+  "email": " mairie.nuelles@numericable.com "
+},{
+  "name": "ODENAS",
+  "departement": "RHONE",
+  "email": "mairie.odenas@wanadoo.fr"
+},{
+  "name": "OINGT",
+  "departement": "RHONE",
+  "email": "mairie.oingt@free.fr"
+},{
+  "name": "ORLIENAS",
+  "departement": "RHONE",
+  "email": "mairie@orlienas.fr"
+},{
+  "name": "OULLINS",
+  "departement": "RHONE",
+  "email": "contact@ville-oullins.fr"
+},{
+  "name": "OUROUX",
+  "departement": "RHONE",
+  "email": "secretariat@ouroux.mairies69.net"
+},{
+  "name": "PIERRE BENITE",
+  "departement": "RHONE",
+  "email": "miroir@wanadoo.fr"
+},{
+  "name": "POLEYMIEUX AU MONT D OR",
+  "departement": "RHONE",
+  "email": "mairie@poleymieux.fr"
+},{
+  "name": "POLLIONNAY",
+  "departement": "RHONE",
+  "email": "pollionnay@coteaux-lyonnais.com"
+},{
+  "name": "POMEYS",
+  "departement": "RHONE",
+  "email": "mairie.pomeys@cc-hauts-du-lyonnais.fr"
+},{
+  "name": "POMMIERS",
+  "departement": "RHONE",
+  "email": "contact@mairie-pommiers.fr"
+},{
+  "name": "PONTCHARRA SUR TURDINE",
+  "departement": "RHONE",
+  "email": "pontcharra69@wanadoo.fr"
+},{
+  "name": "PONT TRAMBOUZE",
+  "departement": "RHONE",
+  "email": "pont_trambouze.mairie@numericable.com"
+},{
+  "name": "POUILLY LE MONIAL",
+  "departement": "RHONE",
+  "email": "mairie.pouilly-le-monial@wanadoo.fr"
+},{
+  "name": "POULE LES ECHARMEAUX",
+  "departement": "RHONE",
+  "email": " secretariat@poule.mairies69.net"
+},{
+  "name": "PROPIERES",
+  "departement": "RHONE",
+  "email": "mairie@propieres.mairies69.net"
+},{
+  "name": "PUSIGNAN",
+  "departement": "RHONE",
+  "email": "accueil@mairie-pusignan.fr"
+},{
+  "name": "QUINCIE EN BEAUJOLAIS",
+  "departement": "RHONE",
+  "email": "mairie@quincie-en-beaujolais.fr"
+},{
+  "name": "QUINCIEUX",
+  "departement": "RHONE",
+  "email": "mairie.quincieux@wanadoo.fr"
+},{
+  "name": "RANCHAL",
+  "departement": "RHONE",
+  "email": "mairie.ranchal@wanadoo.fr"
+},{
+  "name": "REGNIE DURETTE",
+  "departement": "RHONE",
+  "email": "contact@regnie-durette.com"
+},{
+  "name": "RILLIEUX LA PAPE",
+  "departement": "RHONE",
+  "email": "contact@ville-rillieux-la-pape.fr"
+},{
+  "name": "RIVERIE",
+  "departement": "RHONE",
+  "email": "mairie.riverie@cc-paysmornantais.fr"
+},{
+  "name": "RIVOLET",
+  "departement": "RHONE",
+  "email": "accueil@rivolet.mairies69.net"
+},{
+  "name": "ROCHETAILLEE SUR SAONE",
+  "departement": "RHONE",
+  "email": "accueil@mairie-rochetaillee.fr"
+},{
+  "name": "RONNO",
+  "departement": "RHONE",
+  "email": "mairie@ronno.mairies69.net"
+},{
+  "name": "RONTALON",
+  "departement": "RHONE",
+  "email": "mairie.rontalon@cc-paysmornantais.fr"
+},{
+  "name": "SAIN BEL",
+  "departement": "RHONE",
+  "email": "mairiedesainbel@wanadoo.fr"
+},{
+  "name": "SAINT ANDEOL LE CHATEAU",
+  "departement": "RHONE",
+  "email": "mairie.st.andeol@cc-paysmornantais.fr"
+},{
+  "name": "SAINT ANDRE LA COTE",
+  "departement": "RHONE",
+  "email": "mairie.st.andre@cc-paysmornantais.fr"
+},{
+  "name": "SAINT APPOLINAIRE",
+  "departement": "RHONE",
+  "email": "mairie-st-appo@wanadoo.fr"
+},{
+  "name": "SAINT BONNET DE MURE",
+  "departement": "RHONE",
+  "email": "contact@saintbonnetdemure.com"
+},{
+  "name": "SAINT BONNET DES BRUYERES",
+  "departement": "RHONE",
+  "email": "m.destbonnetdesbruyeres@numericable.com"
+},{
+  "name": "SAINT BONNET LE TRONCY",
+  "departement": "RHONE",
+  "email": "accueil@stbonnet.mairies69.net"
+},{
+  "name": "SAINT CHRISTOPHE",
+  "departement": "RHONE",
+  "email": "secretariat@saintchristophe.mairies69.net"
+},{
+  "name": "SAINT CLEMENT DE VERS",
+  "departement": "RHONE",
+  "email": "mairie@saintclementdevers.mairies69.net"
+},{
+  "name": "SAINT CLEMENT LES PLACES",
+  "departement": "RHONE",
+  "email": "st-clemen@erasme.org"
+},{
+  "name": "SAINT CLEMENT SUR VALSONNE",
+  "departement": "RHONE",
+  "email": "info@st-clement-valsonne.mairies69.net"
+},{
+  "name": "SAINT CYR AU MONT D OR",
+  "departement": "RHONE",
+  "email": "mairiestcyr@wanadoo.fr"
+},{
+  "name": "SAINT CYR LE CHATOUX",
+  "departement": "RHONE",
+  "email": "jpd@stcyr.mairies69.net"
+},{
+  "name": "SAINT CYR SUR LE RHONE",
+  "departement": "RHONE",
+  "email": "stcyrsurlerhone@gmail.com"
+},{
+  "name": "SAINT DIDIER AU MONT D OR",
+  "departement": "RHONE",
+  "email": "info@stdidier.com"
+},{
+  "name": "SAINT DIDIER SOUS RIVERIE",
+  "departement": "RHONE",
+  "email": "mairie.st.didier@cc-paysmornantais.fr"
+},{
+  "name": "SAINT DIDIER SUR BEAUJEU",
+  "departement": "RHONE",
+  "email": "mairie@saint-didier-sur-beaujeu.org "
+},{
+  "name": "SAINTE CATHERINE",
+  "departement": "RHONE",
+  "email": "mairie-ste-catherine@wanadoo.fr"
+},{
+  "name": "SAINTE COLOMBE",
+  "departement": "RHONE",
+  "email": "mairie@ste-colombe.fr"
+},{
+  "name": "SAINTE CONSORCE",
+  "departement": "RHONE",
+  "email": "contact@mairie-sainteconsorce.fr"
+},{
+  "name": "SAINTE FOY L ARGENTIERE",
+  "departement": "RHONE",
+  "email": "stefoy@erasme.org"
+},{
+  "name": "SAINTE FOY LES LYON",
+  "departement": "RHONE",
+  "email": "communication@ville-saintefoyleslyon.fr"
+},{
+  "name": "SAINTE PAULE",
+  "departement": "RHONE",
+  "email": "mairie.saintepaule@wanadoo.fr"
+},{
+  "name": "SAINT ETIENNE DES OULLIERES",
+  "departement": "RHONE",
+  "email": "mairie.seo@wanadoo.fr"
+},{
+  "name": "SAINT ETIENNE LA VARENNE",
+  "departement": "RHONE",
+  "email": "accueil@st-etienne-la-varenne.mairies69.net"
+},{
+  "name": "SAINT FONS",
+  "departement": "RHONE",
+  "email": "accueil@saint-fons.fr"
+},{
+  "name": "SAINT FORGEUX",
+  "departement": "RHONE",
+  "email": " mairie@st-forgeux.mairies69.net "
+},{
+  "name": "SAINT GENIS L ARGENTIERE",
+  "departement": "RHONE",
+  "email": "stgenis@erasme.org"
+},{
+  "name": "SAINT GENIS LAVAL",
+  "departement": "RHONE",
+  "email": "ecrire@mairie-saintgenislaval.fr"
+},{
+  "name": "SAINT GENIS LES OLLIERES",
+  "departement": "RHONE",
+  "email": "mairie-de-st-genis-les-ollieres@wanadoo.fr "
+},{
+  "name": "SAINT GEORGES DE RENEINS",
+  "departement": "RHONE",
+  "email": "mairie@stgeorgesdereneins.mairies69.net"
+},{
+  "name": "SAINT GERMAIN AU MONT D OR",
+  "departement": "RHONE",
+  "email": "mairie@saintgermainaumontdor.fr"
+},{
+  "name": "SAINT GERMAIN SUR L ARBRESLE",
+  "departement": "RHONE",
+  "email": "mairie@saintgermainsurlarbresle.org"
+},{
+  "name": "SAINT IGNY DE VERS",
+  "departement": "RHONE",
+  "email": "com.st-igny-de-vers@wanadoo.fr"
+},{
+  "name": "SAINT JACQUES DES ARRETS",
+  "departement": "RHONE",
+  "email": "mairie.stjacques_da@numericable.com"
+},{
+  "name": "SAINT JEAN D ARDIERES",
+  "departement": "RHONE",
+  "email": "mairie.saint.jean.dardieres@wanadoo.fr"
+},{
+  "name": "SAINT JEAN DES VIGNES",
+  "departement": "RHONE",
+  "email": "mairie.st.jeandesvignes@wanadoo.fr"
+},{
+  "name": "SAINT JEAN DE TOUSLAS",
+  "departement": "RHONE",
+  "email": "mairie.stjeandetouslas@wanadoo.fr"
+},{
+  "name": "SAINT JEAN LA BUSSIERE",
+  "departement": "RHONE",
+  "email": "mairie.st-jean-la-bussiere@wanadoo.fr"
+},{
+  "name": "SAINT JULIEN",
+  "departement": "RHONE",
+  "email": "mairie-de-st-julien@orange.fr"
+},{
+  "name": "SAINT JULIEN SUR BIBOST",
+  "departement": "RHONE",
+  "email": "mairie-st-julien-sur-bibost@wanadoo.fr"
+},{
+  "name": "SAINT JUST D AVRAY",
+  "departement": "RHONE",
+  "email": " st_just_d_avray.mairie@numericable.com "
+},{
+  "name": "SAINT LAGER",
+  "departement": "RHONE",
+  "email": "mairie.st-lager@wanadoo.fr"
+},{
+  "name": "SAINT LAURENT D AGNY",
+  "departement": "RHONE",
+  "email": "mairie.st.laurent.agny@cc-paysmornantais.fr"
+},{
+  "name": "SAINT LAURENT DE CHAMOUSSET",
+  "departement": "RHONE",
+  "email": "stlauren@erasme.org"
+},{
+  "name": "SAINT LAURENT DE MURE",
+  "departement": "RHONE",
+  "email": "stlaurent.municipal@saintlaurentdemure.org"
+},{
+  "name": "SAINT LAURENT DE VAUX",
+  "departement": "RHONE",
+  "email": "st.laurent.vaux@coteaux-lyonnais.com"
+},{
+  "name": "SAINT LAURENT D OINGT",
+  "departement": "RHONE",
+  "email": "mairie.st_laurent.oingt@numericable.com"
+},{
+  "name": "SAINT LOUP",
+  "departement": "RHONE",
+  "email": "saint-loup.mairie@wanadoo.fr"
+},{
+  "name": "SAINT MAMERT",
+  "departement": "RHONE",
+  "email": ""
+},{
+  "name": "SAINT MARCEL L ECLAIRE",
+  "departement": "RHONE",
+  "email": "mairie@st-marcel.mairies69.net"
+},{
+  "name": "SAINT MARTIN EN HAUT",
+  "departement": "RHONE",
+  "email": "mairie.saint-martin-en-haut@cc-hauts-du-lyonnais.fr"
+},{
+  "name": "SAINT MAURICE SUR DARGOIRE",
+  "departement": "RHONE",
+  "email": "mairie.saint-maurice.dargoire@wanadoo.fr"
+},{
+  "name": "SAINT NIZIER D AZERGUES",
+  "departement": "RHONE",
+  "email": "mairie.stnizierdaz@numericable.com"
+},{
+  "name": "SAINT PIERRE DE CHANDIEU",
+  "departement": "RHONE",
+  "email": "mairie@mairie-stpierredechandieu.com"
+},{
+  "name": "SAINT PIERRE LA PALUD",
+  "departement": "RHONE",
+  "email": "mairie@stpierrelapalud.fr"
+},{
+  "name": "SAINT PRIEST",
+  "departement": "RHONE",
+  "email": "communication@mairie-saint-priest.fr"
+},{
+  "name": "SAINT ROMAIN AU MONT D OR",
+  "departement": "RHONE",
+  "email": "contactmairie@saintromainaumontdor.fr"
+},{
+  "name": "SAINT ROMAIN DE POPEY",
+  "departement": "RHONE",
+  "email": "secretariat@st-romain-popey.mairies69.net"
+},{
+  "name": "SAINT ROMAIN EN GAL",
+  "departement": "RHONE",
+  "email": "accueilmairie@saintromainengal.fr"
+},{
+  "name": "SAINT ROMAIN EN GIER",
+  "departement": "RHONE",
+  "email": "mairie-s-romain-en-gier@wanadoo.fr"
+},{
+  "name": "SAINT SORLIN",
+  "departement": "RHONE",
+  "email": "mairie.st.sorlin@cc-paysmornantais.fr"
+},{
+  "name": "SAINT SYMPHORIEN D OZON",
+  "departement": "RHONE",
+  "email": "mairie@ville-saint-symphorien-ozon.fr"
+},{
+  "name": "SAINT SYMPHORIEN SUR COISE",
+  "departement": "RHONE",
+  "email": "mairie.st-symphorien-sur-coise@cc-hauts-du-lyonnais.fr"
+},{
+  "name": "SAINT VERAND",
+  "departement": "RHONE",
+  "email": "mairie@saint-verand.com"
+},{
+  "name": "SAINT VINCENT DE REINS",
+  "departement": "RHONE",
+  "email": "mairie.st.vincent.reins@wanadoo.fr"
+},{
+  "name": "SALLES ARBUISSONNAS EN BEAUJOL",
+  "departement": "Page introuvable",
+  "email": "Page introuvable"
+},{
+  "name": "SARCEY",
+  "departement": "RHONE",
+  "email": "mairie.de_sarcey@chello.fr"
+},{
+  "name": "SATHONAY CAMP",
+  "departement": "RHONE",
+  "email": "secretariat.maire@ville-sathonaycamp.fr"
+},{
+  "name": "SATHONAY VILLAGE",
+  "departement": "RHONE",
+  "email": "mairie-de-sathonay-village@wanadoo.fr"
+},{
+  "name": "SAVIGNY",
+  "departement": "RHONE",
+  "email": "savigny69-mairie@wanadoo.fr"
+},{
+  "name": "SEREZIN DU RHONE",
+  "departement": "RHONE",
+  "email": "mairie@serezin-du-rhone.fr"
+},{
+  "name": "SIMANDRES",
+  "departement": "RHONE",
+  "email": "mairie@simandres.fr"
+},{
+  "name": "SOLAIZE",
+  "departement": "RHONE",
+  "email": "info@mairie-solaize.fr"
+},{
+  "name": "SOUCIEU EN JARREST",
+  "departement": "RHONE",
+  "email": "mairie.soucieu@wanadoo.fr"
+},{
+  "name": "SOURCIEUX LES MINES",
+  "departement": "RHONE",
+  "email": "mairie@sourcieuxlesmines.fr"
+},{
+  "name": "SOUZY",
+  "departement": "RHONE",
+  "email": "souzy@erasme.org"
+},{
+  "name": "TALUYERS",
+  "departement": "RHONE",
+  "email": "mairie.taluyers@cc-paysmornantais.fr"
+},{
+  "name": "TAPONAS",
+  "departement": "RHONE",
+  "email": "mairie.taponas@wanadoo.fr"
+},{
+  "name": "TARARE",
+  "departement": "RHONE",
+  "email": "mairie@ville-tarare.fr"
+},{
+  "name": "TASSIN LA DEMI LUNE",
+  "departement": "RHONE",
+  "email": "accueil@villetassinlademilune.fr"
+},{
+  "name": "TERNAND",
+  "departement": "RHONE",
+  "email": "secretariat@ternand.mairies.69.net"
+},{
+  "name": "TERNAY",
+  "departement": "RHONE",
+  "email": "mairie@ternay.fr"
+},{
+  "name": "THEIZE",
+  "departement": "RHONE",
+  "email": ""
+},{
+  "name": "THEL",
+  "departement": "RHONE",
+  "email": "thel.mairie@wanadoo.fr"
+},{
+  "name": "THIZY",
+  "departement": "RHONE",
+  "email": ""
+},{
+  "name": "THURINS",
+  "departement": "RHONE",
+  "email": "thurins@coteaux-lyonnais.com"
+},{
+  "name": "TOUSSIEU",
+  "departement": "RHONE",
+  "email": "mairie@mairie-toussieu.fr"
+},{
+  "name": "TRADES",
+  "departement": "RHONE",
+  "email": "mairie@trades.mairies69.net"
+},{
+  "name": "TREVES",
+  "departement": "RHONE",
+  "email": "secretariat@treves.mairies69.net"
+},{
+  "name": "TUPIN ET SEMONS",
+  "departement": "RHONE",
+  "email": "mairie.de_tupin_et_semons@numericable.com"
+},{
+  "name": "VALSONNE",
+  "departement": "RHONE",
+  "email": "stephane.j@valsonne.mairies69.net"
+},{
+  "name": "VAUGNERAY",
+  "departement": "RHONE",
+  "email": "vaugneray@coteaux-lyonnais.com"
+},{
+  "name": "VAULX EN VELIN",
+  "departement": "RHONE",
+  "email": "communication@ville-vaulx-en-velin.fr"
+},{
+  "name": "VAUX EN BEAUJOLAIS",
+  "departement": "RHONE",
+  "email": "mairie@vaux-clochemerle.fr"
+},{
+  "name": "VAUXRENARD",
+  "departement": "RHONE",
+  "email": "mairie@vauxrenard.fr"
+},{
+  "name": "VENISSIEUX",
+  "departement": "RHONE",
+  "email": "contact@ville-venissieux.fr"
+},{
+  "name": "VERNAISON",
+  "departement": "RHONE",
+  "email": "mairie.vernaison@wanadoo.fr"
+},{
+  "name": "VERNAY",
+  "departement": "RHONE",
+  "email": "mairie.vernay@wanadoo.fr"
+},{
+  "name": "VILLECHENEVE",
+  "departement": "RHONE",
+  "email": "villeche@erasme.org"
+},{
+  "name": "VILLEFRANCHE SUR SAONE",
+  "departement": "RHONE",
+  "email": "com@villefranche.net"
+},{
+  "name": "VILLE SUR JARNIOUX",
+  "departement": "RHONE",
+  "email": "mairie.ville.sur.jarnioux@wanadoo.fr"
+},{
+  "name": "VILLEURBANNE",
+  "departement": "RHONE",
+  "email": "communication@mairie-villeurbanne.fr"
+},{
+  "name": "VILLIE MORGON",
+  "departement": "RHONE",
+  "email": "mairie.villie-morgon@wanadoo.fr"
+},{
+  "name": "VOURLES",
+  "departement": "RHONE",
+  "email": "commune-de-vourles@wanadoo.fr"
+},{
+  "name": "YZERON",
+  "departement": "RHONE",
+  "email": "mairie@yzeron.com"
+},{
+  "name": "ABOEN",
+  "departement": "LOIRE",
+  "email": "mairie-daboen@wanadoo.fr"
+},{
+  "name": "AILLEUX",
+  "departement": "LOIRE",
+  "email": "mairie.ailleux@wanadoo.fr"
+},{
+  "name": "AMBIERLE",
+  "departement": "LOIRE",
+  "email": "prieure@wanadoo.fr"
+},{
+  "name": "AMIONS",
+  "departement": "LOIRE",
+  "email": "mairie.amions@wanadoo.fr"
+},{
+  "name": "ANDREZIEUX BOUTHEON",
+  "departement": "LOIRE",
+  "email": "communication@andrezieux-boutheon.com"
+},{
+  "name": "APINAC",
+  "departement": "LOIRE",
+  "email": "mairie.apinac@wanadoo.fr"
+},{
+  "name": "ARCINGES",
+  "departement": "LOIRE",
+  "email": "communearcinges@wanadoo.fr"
+},{
+  "name": "ARCON",
+  "departement": "LOIRE",
+  "email": "mairiearcon@wanadoo.fr"
+},{
+  "name": "ARTHUN",
+  "departement": "LOIRE",
+  "email": "mairie.darthun@wanadoo.fr"
+},{
+  "name": "AVEIZIEUX",
+  "departement": "LOIRE",
+  "email": "mairie.aveizieux@wanadoo.fr"
+},{
+  "name": "BALBIGNY",
+  "departement": "LOIRE",
+  "email": "commune.balbigny@wanadoo.fr"
+},{
+  "name": "BARD",
+  "departement": "LOIRE",
+  "email": "mairiebard@wanadoo.fr"
+},{
+  "name": "BELLEGARDE EN FOREZ",
+  "departement": "LOIRE",
+  "email": "mairiebellegarde@wanadoo.fr"
+},{
+  "name": "BELLEROCHE",
+  "departement": "LOIRE",
+  "email": "mairie.belleroche@wanadoo.fr"
+},{
+  "name": "BELMONT DE LA LOIRE",
+  "departement": "LOIRE",
+  "email": "mairie@belmontdelaloire.fr"
+},{
+  "name": "BESSEY",
+  "departement": "LOIRE",
+  "email": "mairie.bessey42@orange.fr"
+},{
+  "name": "BOEN",
+  "departement": "LOIRE",
+  "email": "accueil@boen.fr"
+},{
+  "name": "BOISSET LES MONTROND",
+  "departement": "LOIRE",
+  "email": "Mairie.boisset42@wanadoo.fr"
+},{
+  "name": "BOISSET SAINT PRIEST",
+  "departement": "LOIRE",
+  "email": "mairie.boisset-saint-priest@wanadoo.fr"
+},{
+  "name": "BONSON",
+  "departement": "LOIRE",
+  "email": "contact@mairie-bonson.fr"
+},{
+  "name": "BOURG ARGENTAL",
+  "departement": "LOIRE",
+  "email": "mairie@bourgargental.fr"
+},{
+  "name": "BOYER",
+  "departement": "LOIRE",
+  "email": "mairie.boyer@wanadoo.fr"
+},{
+  "name": "BRIENNON",
+  "departement": "LOIRE",
+  "email": "mairie.briennon@wanadoo.fr"
+},{
+  "name": "BULLY",
+  "departement": "LOIRE",
+  "email": "bully.mairie@wanadoo.fr"
+},{
+  "name": "BURDIGNES",
+  "departement": "LOIRE",
+  "email": "ma-burdi@wanadoo.fr"
+},{
+  "name": "BUSSIERES",
+  "departement": "LOIRE",
+  "email": "bussieres-mairie@wanadoo.fr"
+},{
+  "name": "BUSSY ALBIEUX",
+  "departement": "LOIRE",
+  "email": "mairie.bussy-albieux@wanadoo.fr"
+},{
+  "name": "CALOIRE",
+  "departement": "LOIRE",
+  "email": "mairie-caloire@orange.fr"
+},{
+  "name": "CELLIEU",
+  "departement": "LOIRE",
+  "email": "secretariat@cellieu.fr"
+},{
+  "name": "CERVIERES",
+  "departement": "LOIRE",
+  "email": "mairie-de-cervieres@wanadoo.fr"
+},{
+  "name": "CEZAY",
+  "departement": "LOIRE",
+  "email": "mairie-cezay@wanadoo.fr"
+},{
+  "name": "CHAGNON",
+  "departement": "LOIRE",
+  "email": "mairie.chagnon@wanadoo.fr"
+},{
+  "name": "CHALAIN D UZORE",
+  "departement": "LOIRE",
+  "email": "mairie.chalainduzore@orange.fr"
+},{
+  "name": "CHALAIN LE COMTAL",
+  "departement": "LOIRE",
+  "email": "mairie.chalain.le.comtal@wanadoo.fr"
+},{
+  "name": "CHALMAZEL",
+  "departement": "LOIRE",
+  "email": "mairie.chalmazel@wanadoo.fr"
+},{
+  "name": "CHAMBEON",
+  "departement": "LOIRE",
+  "email": "mairie.chambeon@wanadoo.fr"
+},{
+  "name": "CHAMBLES",
+  "departement": "LOIRE",
+  "email": "chambles.mairie@wanadoo.fr"
+},{
+  "name": "CHAMBOEUF",
+  "departement": "LOIRE",
+  "email": "mairie.chamboeuf42@wanadoo.fr"
+},{
+  "name": "CHAMPDIEU",
+  "departement": "LOIRE",
+  "email": "mairie@champdieu.fr"
+},{
+  "name": "CHAMPOLY",
+  "departement": "LOIRE",
+  "email": "mairie.champoly@wanadoo.fr"
+},{
+  "name": "CHANDON",
+  "departement": "LOIRE",
+  "email": "mairie-chandon-42@wanadoo.fr"
+},{
+  "name": "CHANGY",
+  "departement": "LOIRE",
+  "email": "mairie.changy@wanadoo.fr"
+},{
+  "name": "CHARLIEU",
+  "departement": "LOIRE",
+  "email": "contacts@ville-charlieu.fr"
+},{
+  "name": "CHATEAUNEUF",
+  "departement": "LOIRE",
+  "email": "mairie@mairiedechateauneuf.fr"
+},{
+  "name": "CHATELNEUF",
+  "departement": "LOIRE",
+  "email": "mairie.chatelneuf@wanadoo.fr"
+},{
+  "name": "CHATELUS",
+  "departement": "LOIRE",
+  "email": "mairie.chatelus@wanadoo.fr"
+},{
+  "name": "CHAUSSETERRE",
+  "departement": "LOIRE",
+  "email": "mairie.chausseterre@wanadoo.fr"
+},{
+  "name": "CHAVANAY",
+  "departement": "LOIRE",
+  "email": "mairie.chavanay@wanadoo.fr"
+},{
+  "name": "CHAZELLES SUR LAVIEU",
+  "departement": "LOIRE",
+  "email": "chazelles-sur-lavieu.cne@wanadoo.fr"
+},{
+  "name": "CHAZELLES SUR LYON",
+  "departement": "LOIRE",
+  "email": "mairie.chazelles@wanadoo.fr"
+},{
+  "name": "CHENEREILLES",
+  "departement": "LOIRE",
+  "email": "chenereilles.cne@wanadoo.fr"
+},{
+  "name": "CHERIER",
+  "departement": "LOIRE",
+  "email": "cherier.mairie@wanadoo.fr"
+},{
+  "name": "CHEVRIERES",
+  "departement": "LOIRE",
+  "email": "mairiechevrieres@orange.fr"
+},{
+  "name": "CHIRASSIMONT",
+  "departement": "LOIRE",
+  "email": "mairie.chirassimont@copler.fr"
+},{
+  "name": "CHUYER",
+  "departement": "LOIRE",
+  "email": "mairie.chuyer@inforoutes-ardeche.fr"
+},{
+  "name": "CIVENS",
+  "departement": "LOIRE",
+  "email": "mairie.civens@wanadoo.fr"
+},{
+  "name": "CLEPPE",
+  "departement": "LOIRE",
+  "email": "mairie-cleppe@wanadoo.fr"
+},{
+  "name": "COLOMBIER",
+  "departement": "LOIRE",
+  "email": "colombier.mairie@wanadoo.fr"
+},{
+  "name": "COMBRE",
+  "departement": "LOIRE",
+  "email": "mairie.combre@wanadoo.fr"
+},{
+  "name": "COMMELLE VERNAY",
+  "departement": "LOIRE",
+  "email": "mairie@mairie-commelle-vernay.fr"
+},{
+  "name": "CORDELLE",
+  "departement": "LOIRE",
+  "email": "mairie.cordelle@copler.fr"
+},{
+  "name": "COTTANCE",
+  "departement": "LOIRE",
+  "email": "p.r.i.cottance@wanadoo.fr"
+},{
+  "name": "COUTOUVRE",
+  "departement": "LOIRE",
+  "email": "mairie.coutouvre@wanadoo.fr"
+},{
+  "name": "CRAINTILLEUX",
+  "departement": "LOIRE",
+  "email": "mairie-craintilleux@wanadoo.fr"
+},{
+  "name": "CREMEAUX",
+  "departement": "LOIRE",
+  "email": "mairie.cremeaux@wanadoo.fr"
+},{
+  "name": "CROIZET SUR GAND",
+  "departement": "LOIRE",
+  "email": "mairie.croizet.sur.gand@copler.fr"
+},{
+  "name": "CUINZIER",
+  "departement": "LOIRE",
+  "email": "mairiecuinzier@wanadoo.fr"
+},{
+  "name": "CUZIEU",
+  "departement": "LOIRE",
+  "email": "mairie.cuzieu@wanadoo.fr"
+},{
+  "name": "DANCE",
+  "departement": "LOIRE",
+  "email": "mairie.dance@wanadoo.fr"
+},{
+  "name": "DARGOIRE",
+  "departement": "LOIRE",
+  "email": "mairie.dargoire.42@wanadoo.fr"
+},{
+  "name": "DEBATS RIVIERE D ORPRA",
+  "departement": "LOIRE",
+  "email": "mairie.debats@wanadoo.fr"
+},{
+  "name": "DOIZIEUX",
+  "departement": "LOIRE",
+  "email": "mairie.doizieux@wanadoo.fr"
+},{
+  "name": "ECOCHE",
+  "departement": "LOIRE",
+  "email": "mairie.ecoche@wanadoo.fr"
+},{
+  "name": "ECOTAY L OLME",
+  "departement": "LOIRE",
+  "email": "ecotay@wanadoo.fr"
+},{
+  "name": "EPERCIEUX SAINT PAUL",
+  "departement": "LOIRE",
+  "email": "mairie.epercieux@wanadoo.fr"
+},{
+  "name": "ESSERTINES EN CHATELNEUF",
+  "departement": "LOIRE",
+  "email": "mairieessertines-en-chatelneuf@wanadoo.fr"
+},{
+  "name": "ESSERTINES EN DONZY",
+  "departement": "LOIRE",
+  "email": "mairie.essertines.en.donzy@wanadoo.fr"
+},{
+  "name": "ESTIVAREILLES",
+  "departement": "LOIRE",
+  "email": "mairie.estivareilles.42@wanadoo.fr"
+},{
+  "name": "FARNAY",
+  "departement": "LOIRE",
+  "email": "mairie.farnay@wanadoo.fr"
+},{
+  "name": "FEURS",
+  "departement": "LOIRE",
+  "email": "mairiedefeurs@feurs.fr"
+},{
+  "name": "FIRMINY",
+  "departement": "LOIRE",
+  "email": "mairie@ville-firminy.fr"
+},{
+  "name": "FONTANES",
+  "departement": "LOIRE",
+  "email": "mairie.fontanes@wanadoo.fr"
+},{
+  "name": "FOURNEAUX",
+  "departement": "LOIRE",
+  "email": "mairie.fourneaux@copler.fr"
+},{
+  "name": "FRAISSES",
+  "departement": "LOIRE",
+  "email": "ville.fraisses@wanadoo.fr"
+},{
+  "name": "GENILAC",
+  "departement": "LOIRE",
+  "email": "mairie@genilac.fr"
+},{
+  "name": "GRAIX",
+  "departement": "LOIRE",
+  "email": "commune.graix@wanadoo.fr"
+},{
+  "name": "GRAMMOND",
+  "departement": "LOIRE",
+  "email": "mairie-grammond@wanadoo.fr"
+},{
+  "name": "GREZIEUX LE FROMENTAL",
+  "departement": "LOIRE",
+  "email": "mairie.grezieux-le-fromental@wanadoo.fr"
+},{
+  "name": "GREZOLLES",
+  "departement": "LOIRE",
+  "email": "mairiegrezolle@wanadoo.fr"
+},{
+  "name": "GUMIERES",
+  "departement": "LOIRE",
+  "email": "commune-de-gumieres@wanadoo.fr"
+},{
+  "name": "JARNOSSE",
+  "departement": "LOIRE",
+  "email": "mairie.jarnosse@wanadoo.fr"
+},{
+  "name": "JAS",
+  "departement": "LOIRE",
+  "email": "mairie.jas@wanadoo.fr"
+},{
+  "name": "JEANSAGNIERE",
+  "departement": "LOIRE",
+  "email": "mairie.jeansagniere0703@orange.fr"
+},{
+  "name": "JONZIEUX",
+  "departement": "LOIRE",
+  "email": "jonzieux-mairie@wanadoo.fr"
+},{
+  "name": "JURE",
+  "departement": "LOIRE",
+  "email": "mairie.jure@wanadoo.fr"
+},{
+  "name": "LA BENISSON DIEU",
+  "departement": "LOIRE",
+  "email": "mairie.benisson.dieu@wanadoo.fr"
+},{
+  "name": "LA CHAMBA",
+  "departement": "LOIRE",
+  "email": "mairie-lachamba@wanadoo.fr"
+},{
+  "name": "LA CHAMBONIE",
+  "departement": "LOIRE",
+  "email": "mairie.chambonie@wanadoo.fr"
+},{
+  "name": "LA CHAPELLE EN LAFAYE",
+  "departement": "LOIRE",
+  "email": "mairie.lachapelle-en-lafaye@wanadoo.fr"
+},{
+  "name": "LA CHAPELLE VILLARS",
+  "departement": "LOIRE",
+  "email": "mairie-lachapellevillars@wanadoo.fr"
+},{
+  "name": "LA COTE EN COUZAN",
+  "departement": "LOIRE",
+  "email": "coteencouzan.mairie@wanadoo.fr"
+},{
+  "name": "LA FOUILLOUSE",
+  "departement": "LOIRE",
+  "email": "mairie@lafouillouse.fr"
+},{
+  "name": "LA GIMOND",
+  "departement": "LOIRE",
+  "email": "mairie-la-gimond@wanadoo.fr"
+},{
+  "name": "LA GRAND CROIX",
+  "departement": "LOIRE",
+  "email": "mairie-de-grand-croix@wanadoo.fr"
+},{
+  "name": "LA GRESLE",
+  "departement": "LOIRE",
+  "email": "mairie.lagresle@wanadoo.fr"
+},{
+  "name": "LA PACAUDIERE",
+  "departement": "LOIRE",
+  "email": "lapacaudiere@wanadoo.fr"
+},{
+  "name": "LA RICAMARIE",
+  "departement": "LOIRE",
+  "email": "mairie@ville-la-ricamarie.fr"
+},{
+  "name": "LA TALAUDIERE",
+  "departement": "LOIRE",
+  "email": ""
+},{
+  "name": "LA TERRASSE SUR DORLAY",
+  "departement": "LOIRE",
+  "email": "laterrassesurdorlay.mairie@wanadoo.fr"
+},{
+  "name": "LA TOUR EN JAREZ",
+  "departement": "LOIRE",
+  "email": "mairie-tour-en-jarez@wanadoo.fr"
+},{
+  "name": "LA TOURETTE",
+  "departement": "LOIRE",
+  "email": "mairie.latourette@wanadoo.fr"
+},{
+  "name": "LA TUILIERE",
+  "departement": "LOIRE",
+  "email": "mairie.la.tuiliere.42@wanadoo.fr"
+},{
+  "name": "LA VALLA EN GIER",
+  "departement": "LOIRE",
+  "email": "contact@la-valla-en-gier.fr "
+},{
+  "name": "LA VALLA SUR ROCHEFORT",
+  "departement": "LOIRE",
+  "email": "mairielavallasurrochefort@orange.fr"
+},{
+  "name": "LA VERSANNE",
+  "departement": "LOIRE",
+  "email": "mairie-la-versanne@wanadoo.fr"
+},{
+  "name": "LAVIEU",
+  "departement": "LOIRE",
+  "email": "mairiedelavieu@wanadoo.fr"
+},{
+  "name": "LAY",
+  "departement": "LOIRE",
+  "email": "mairie.lay@copler.fr"
+},{
+  "name": "LE BESSAT",
+  "departement": "LOIRE",
+  "email": "le.bessat.cne@wanadoo.fr"
+},{
+  "name": "LE CERGNE",
+  "departement": "LOIRE",
+  "email": "mairie-le.cergne@wanadoo.fr"
+},{
+  "name": "LE CHAMBON FEUGEROLLES",
+  "departement": "LOIRE",
+  "email": "mairie@ville-lechambonfeugerolles.fr"
+},{
+  "name": "LE COTEAU",
+  "departement": "LOIRE",
+  "email": "contact@mairie-lecoteau.fr"
+},{
+  "name": "LE CROZET",
+  "departement": "LOIRE",
+  "email": "commune.le.crozet@wanadoo.fr"
+},{
+  "name": "LEIGNEUX",
+  "departement": "LOIRE",
+  "email": "mairieleigneux@wanadoo.fr"
+},{
+  "name": "LENTIGNY",
+  "departement": "LOIRE",
+  "email": "mairie.lentigny@wanadoo.fr"
+},{
+  "name": "LERIGNEUX",
+  "departement": "LOIRE",
+  "email": "mairielerigneux@wanadoo.fr"
+},{
+  "name": "LES NOES",
+  "departement": "LOIRE",
+  "email": "mairie-des-noes@wanadoo.fr"
+},{
+  "name": "LES SALLES",
+  "departement": "LOIRE",
+  "email": "mairie.les.salles.42@wanadoo.fr"
+},{
+  "name": "L ETRAT",
+  "departement": "LOIRE",
+  "email": "etrat.mairie@wanadoo.fr"
+},{
+  "name": "LEZIGNEUX",
+  "departement": "LOIRE",
+  "email": "mairie.lezigneux@wanadoo.fr"
+},{
+  "name": "L HOPITAL LE GRAND",
+  "departement": "LOIRE",
+  "email": "mairie.lhopitallegrand@wanadoo.fr"
+},{
+  "name": "L HOPITAL SOUS ROCHEFORT",
+  "departement": "LOIRE",
+  "email": "mairie.hopital@wanadoo.fr"
+},{
+  "name": "L HORME",
+  "departement": "LOIRE",
+  "email": "mairie@ville-horme.fr"
+},{
+  "name": "LORETTE",
+  "departement": "LOIRE",
+  "email": "mairie.lorette@wanadoo.fr"
+},{
+  "name": "LUPE",
+  "departement": "LOIRE",
+  "email": "mairie.lupe@wanadoo.fr"
+},{
+  "name": "LURE",
+  "departement": "LOIRE",
+  "email": "lure.cne@wanadoo.fr"
+},{
+  "name": "LURIECQ",
+  "departement": "LOIRE",
+  "email": "luriecq.cne@wanadoo.fr"
+},{
+  "name": "MABLY",
+  "departement": "LOIRE",
+  "email": "mairie@ville-mably.fr"
+},{
+  "name": "MACHEZAL",
+  "departement": "LOIRE",
+  "email": "mairie.machezal@copler.fr"
+},{
+  "name": "MACLAS",
+  "departement": "LOIRE",
+  "email": "mairie@maclas.fr"
+},{
+  "name": "MAGNEUX HAUTE RIVE",
+  "departement": "LOIRE",
+  "email": "mairie.magneuxhauterive@wanadoo.fr"
+},{
+  "name": "MAIZILLY",
+  "departement": "LOIRE",
+  "email": "mairiedemaizilly42@wanadoo.fr"
+},{
+  "name": "MALLEVAL",
+  "departement": "LOIRE",
+  "email": "mairie.malleval@wanadoo.fr"
+},{
+  "name": "MARCENOD",
+  "departement": "LOIRE",
+  "email": "mairie-marcenod@wanadoo.fr"
+},{
+  "name": "MARCILLY LE CHATEL",
+  "departement": "LOIRE",
+  "email": "marcillym@wanadoo.fr"
+},{
+  "name": "MARCLOPT",
+  "departement": "LOIRE",
+  "email": "mairie.marclopt@wanadoo.fr"
+},{
+  "name": "MARCOUX",
+  "departement": "LOIRE",
+  "email": "mairiedemarcoux42@wanadoo.fr"
+},{
+  "name": "MARGERIE CHANTAGRET",
+  "departement": "LOIRE",
+  "email": "mairie.margerie-chantagret@wanadoo.fr"
+},{
+  "name": "MARINGES",
+  "departement": "LOIRE",
+  "email": "mairie-maringes@wanadoo.fr"
+},{
+  "name": "MARLHES",
+  "departement": "LOIRE",
+  "email": "mairie.marl@wanadoo.fr"
+},{
+  "name": "MAROLS",
+  "departement": "LOIRE",
+  "email": "marols.mairie@wanadoo.fr"
+},{
+  "name": "MARS",
+  "departement": "LOIRE",
+  "email": "communedemars42@wanadoo.fr"
+},{
+  "name": "MERLE LEIGNEC",
+  "departement": "LOIRE",
+  "email": "merle.leignec.cne@wanadoo.fr"
+},{
+  "name": "MIZERIEUX",
+  "departement": "LOIRE",
+  "email": "mairie.mizerieux42@wanadoo.fr"
+},{
+  "name": "MONTAGNY",
+  "departement": "LOIRE",
+  "email": "montagny.mairie@wanadoo.fr"
+},{
+  "name": "MONTARCHER",
+  "departement": "LOIRE",
+  "email": "mairiemontarcher@wanadoo.fr"
+},{
+  "name": "MONTBRISON",
+  "departement": "LOIRE",
+  "email": "mairie@ville-montbrison.fr"
+},{
+  "name": "MONTCHAL",
+  "departement": "LOIRE",
+  "email": "mairie.montchal@wanadoo.fr"
+},{
+  "name": "MONTROND LES BAINS",
+  "departement": "LOIRE",
+  "email": "mairie@montrond-les-bains.fr"
+},{
+  "name": "MONTVERDUN",
+  "departement": "LOIRE",
+  "email": "mairie-de-montverdun@wanadoo.fr"
+},{
+  "name": "MORNAND EN FOREZ",
+  "departement": "LOIRE",
+  "email": "mairiemornand-en-forez@wanadoo.fr"
+},{
+  "name": "NANDAX",
+  "departement": "LOIRE",
+  "email": "mairie.nandax@wanadoo.fr"
+},{
+  "name": "NEAUX",
+  "departement": "LOIRE",
+  "email": "mairie.neaux@copler.fr"
+},{
+  "name": "NERONDE",
+  "departement": "LOIRE",
+  "email": "mairie.neronde@orange.fr"
+},{
+  "name": "NERVIEUX",
+  "departement": "LOIRE",
+  "email": "commune.de.nervieux@wanadoo.fr"
+},{
+  "name": "NEULISE",
+  "departement": "LOIRE",
+  "email": "mairie.neulise@copler.fr"
+},{
+  "name": "NOAILLY",
+  "departement": "LOIRE",
+  "email": "mairienoailly@orange.fr"
+},{
+  "name": "NOIRETABLE",
+  "departement": "LOIRE",
+  "email": "noiretable-haut-forez@wanadoo.fr"
+},{
+  "name": "NOLLIEUX",
+  "departement": "LOIRE",
+  "email": "mairie.nollieux@wanadoo.fr"
+},{
+  "name": "NOTRE DAME DE BOISSET",
+  "departement": "LOIRE",
+  "email": "notre.dame.de.boisset@wanadoo.fr"
+},{
+  "name": "OUCHES",
+  "departement": "LOIRE",
+  "email": "mairie.ouches@wanadoo.fr"
+},{
+  "name": "PALOGNEUX",
+  "departement": "LOIRE",
+  "email": "commune-de-palogneux@orange.fr"
+},{
+  "name": "PANISSIERES",
+  "departement": "LOIRE",
+  "email": "mairiepanissieres@wanadoo.fr"
+},{
+  "name": "PARIGNY",
+  "departement": "LOIRE",
+  "email": "parigny@wanadoo.fr"
+},{
+  "name": "PAVEZIN",
+  "departement": "LOIRE",
+  "email": "mairie.de.pavezin@wanadoo.fr"
+},{
+  "name": "PELUSSIN",
+  "departement": "LOIRE",
+  "email": "mairie@ville-pelussin.fr"
+},{
+  "name": "PERIGNEUX",
+  "departement": "LOIRE",
+  "email": "mairie.perigneux@wanadoo.fr"
+},{
+  "name": "PERREUX",
+  "departement": "LOIRE",
+  "email": "contact@perreux.fr"
+},{
+  "name": "PINAY",
+  "departement": "LOIRE",
+  "email": "mairie.pinay@wanadoo.fr"
+},{
+  "name": "PLANFOY",
+  "departement": "LOIRE",
+  "email": "mairiedeplanfoy@orange.fr"
+},{
+  "name": "POMMIERS",
+  "departement": "LOIRE",
+  "email": "mairie-pommiers-forez@wanadoo.fr"
+},{
+  "name": "PONCINS",
+  "departement": "LOIRE",
+  "email": "mairie.poncins@wanadoo.fr"
+},{
+  "name": "POUILLY LES FEURS",
+  "departement": "LOIRE",
+  "email": "mairie-de-pouilly-les-feurs@wanadoo.fr"
+},{
+  "name": "POUILLY LES NONAINS",
+  "departement": "LOIRE",
+  "email": "mairie-pouillynonains@wanadoo.fr"
+},{
+  "name": "POUILLY SOUS CHARLIEU",
+  "departement": "LOIRE",
+  "email": "mairie.pouilly-sous-charlieu42@wanadoo.fr"
+},{
+  "name": "PRADINES",
+  "departement": "LOIRE",
+  "email": "mairie.pradines@wanadoo.fr"
+},{
+  "name": "PRALONG",
+  "departement": "LOIRE",
+  "email": "mairie.pralong@wanadoo.fr"
+},{
+  "name": "PRECIEUX",
+  "departement": "LOIRE",
+  "email": "mairie-precieux@wanadoo.fr"
+},{
+  "name": "REGNY",
+  "departement": "LOIRE",
+  "email": "mairieregny@yahoo.fr"
+},{
+  "name": "RENAISON",
+  "departement": "LOIRE",
+  "email": "renaison.mairie@wanadoo.fr"
+},{
+  "name": "RIORGES",
+  "departement": "LOIRE",
+  "email": "mairie@riorges.fr"
+},{
+  "name": "RIVAS",
+  "departement": "LOIRE",
+  "email": "mairie.rivas@wanadoo.fr"
+},{
+  "name": "RIVE DE GIER",
+  "departement": "LOIRE",
+  "email": "mairie@ville-rivedegier.fr"
+},{
+  "name": "ROANNE",
+  "departement": "LOIRE",
+  "email": "contact@mairie-roanne.fr"
+},{
+  "name": "ROCHE",
+  "departement": "LOIRE",
+  "email": "mairieroche42@orange.fr"
+},{
+  "name": "ROCHE LA MOLIERE",
+  "departement": "LOIRE",
+  "email": "mairie@mairierochelamoliere.fr"
+},{
+  "name": "ROISEY",
+  "departement": "LOIRE",
+  "email": "mairie.roisey@wanadoo.fr"
+},{
+  "name": "ROZIER COTES D AUREC",
+  "departement": "LOIRE",
+  "email": "mairie@mairie-roziercotesdaurec.fr"
+},{
+  "name": "ROZIER EN DONZY",
+  "departement": "LOIRE",
+  "email": "mairie-rozier-en-donzy@wanadoo.fr"
+},{
+  "name": "SAIL LES BAINS",
+  "departement": "LOIRE",
+  "email": "mairie.sail.les.bains@wanadoo.fr"
+},{
+  "name": "SAIL SOUS COUZAN",
+  "departement": "LOIRE",
+  "email": "mairie.accueil@sail-sous-couzan.com"
+},{
+  "name": "SAINT ALBAN LES EAUX",
+  "departement": "LOIRE",
+  "email": "mairie-st-alban-les-eaux@wanadoo.fr"
+},{
+  "name": "SAINT ANDRE D APCHON",
+  "departement": "LOIRE",
+  "email": "mairie-st-andre-d-apchon@wanadoo.fr"
+},{
+  "name": "SAINT ANDRE LE PUY",
+  "departement": "LOIRE",
+  "email": "mairie.st.andre.le.puy@wanadoo.fr"
+},{
+  "name": "SAINT APPOLINARD",
+  "departement": "LOIRE",
+  "email": "mairie.stappo@wanadoo.fr"
+},{
+  "name": "SAINT BARTHELEMY LESTRA",
+  "departement": "LOIRE",
+  "email": "mairiesaintbarth@free.fr"
+},{
+  "name": "SAINT BONNET DES QUARTS",
+  "departement": "LOIRE",
+  "email": "mairie-stbonnetdesquarts@wanadoo.fr"
+},{
+  "name": "SAINT BONNET LE CHATEAU",
+  "departement": "LOIRE",
+  "email": "mairie.stbonnetch@wanadoo.fr"
+},{
+  "name": "SAINT BONNET LE COURREAU",
+  "departement": "LOIRE",
+  "email": "stbonnet.courreau@wanadoo.fr"
+},{
+  "name": "SAINT BONNET LES OULES",
+  "departement": "LOIRE",
+  "email": "mairie@saint-bonnet-les-oules.fr"
+},{
+  "name": "SAINT CHAMOND",
+  "departement": "LOIRE",
+  "email": "ville@ville-st-chamond.fr"
+},{
+  "name": "SAINT CHRISTO EN JAREZ",
+  "departement": "LOIRE",
+  "email": "mairie.stchristo@wanadoo.fr"
+},{
+  "name": "SAINT CYPRIEN",
+  "departement": "LOIRE",
+  "email": "mairie.stcyprien@wanadoo.fr"
+},{
+  "name": "SAINT CYR DE FAVIERES",
+  "departement": "LOIRE",
+  "email": "mairie.stcyr.de.favieres@copler.fr"
+},{
+  "name": "SAINT CYR DE VALORGES",
+  "departement": "LOIRE",
+  "email": "mairie.st.cyr.de.valorges@wanadoo.fr"
+},{
+  "name": "SAINT CYR LES VIGNES",
+  "departement": "LOIRE",
+  "email": "commune.stcyr@wanadoo.fr"
+},{
+  "name": "SAINT DENIS DE CABANNE",
+  "departement": "LOIRE",
+  "email": "st.denis.de.cabanne@wanadoo.fr"
+},{
+  "name": "SAINT DENIS SUR COISE",
+  "departement": "LOIRE",
+  "email": "mairie-de-st-denis-sur-coise@wanadoo.fr"
+},{
+  "name": "SAINT DIDIER SUR ROCHEFORT",
+  "departement": "LOIRE",
+  "email": "mairie-st-didier@wanadoo.fr"
+},{
+  "name": "SAINTE AGATHE EN DONZY",
+  "departement": "LOIRE",
+  "email": "ste.agathe.en.donzy@wanadoo.fr"
+},{
+  "name": "SAINTE AGATHE LA BOUTERESSE",
+  "departement": "LOIRE",
+  "email": "mairie@ste-agathe-la-bouteresse.fr"
+},{
+  "name": "SAINTE COLOMBE SUR GAND",
+  "departement": "LOIRE",
+  "email": "colombe-sur-gand@wanadoo.fr"
+},{
+  "name": "SAINTE CROIX EN JAREZ",
+  "departement": "LOIRE",
+  "email": "mairie.sc@wanadoo.fr"
+},{
+  "name": "SAINTE FOY SAINT SULPICE",
+  "departement": "LOIRE",
+  "email": "mstefoy@wanadoo.fr"
+},{
+  "name": "SAINT ETIENNE",
+  "departement": "LOIRE",
+  "email": "courriermairie@saint-etienne.fr"
+},{
+  "name": "SAINT ETIENNE LE MOLARD",
+  "departement": "LOIRE",
+  "email": "mairie.lemolard@wanadoo.fr"
+},{
+  "name": "SAINT FORGEUX LESPINASSE",
+  "departement": "LOIRE",
+  "email": "mairie.st-forgeux@wanadoo.fr"
+},{
+  "name": "SAINT GALMIER",
+  "departement": "LOIRE",
+  "email": "contact.site@mairie-saint-galmier.fr"
+},{
+  "name": "SAINT GENEST LERPT",
+  "departement": "LOIRE",
+  "email": "mairie@ville-st-genest-lerpt.fr"
+},{
+  "name": "SAINT GENEST MALIFAUX",
+  "departement": "LOIRE",
+  "email": "mairie.st.genest.malifaux@wanadoo.fr"
+},{
+  "name": "SAINT GEORGES DE BAROILLE",
+  "departement": "LOIRE",
+  "email": "mairie-stgeorges@packsurfwifi.com"
+},{
+  "name": "SAINT GEORGES EN COUZAN",
+  "departement": "LOIRE",
+  "email": "mairie.saintgeorgesencouzan@wanadoo.fr"
+},{
+  "name": "SAINT GEORGES HAUTE VILLE",
+  "departement": "LOIRE",
+  "email": "mairie.st.georges.haute.ville@wanadoo.fr"
+},{
+  "name": "SAINT GERMAIN LA MONTAGNE",
+  "departement": "LOIRE",
+  "email": "mairiesaintgermainlamontagne@wanadoo.fr"
+},{
+  "name": "SAINT GERMAIN LAVAL",
+  "departement": "LOIRE",
+  "email": "mairie-stgermainlaval@wanadoo.fr"
+},{
+  "name": "SAINT GERMAIN LESPINASSE",
+  "departement": "LOIRE",
+  "email": "mairie.stgermainlespinasse@wanadoo.fr"
+},{
+  "name": "SAINT HAON LE CHATEL",
+  "departement": "LOIRE",
+  "email": "mairiesthaonlechatel@wanadoo.fr"
+},{
+  "name": "SAINT HAON LE VIEUX",
+  "departement": "LOIRE",
+  "email": "mairie.st.haon.le.vieux@wanadoo.fr"
+},{
+  "name": "SAINT HEAND",
+  "departement": "LOIRE",
+  "email": "mairie@saint-heand.fr"
+},{
+  "name": "SAINT HILAIRE CUSSON LA VALMIT",
+  "departement": "LOIRE",
+  "email": "saint.hilaire.cusson.la.valmitte.cne@wanadoo.fr"
+},{
+  "name": "SAINT HILAIRE SOUS CHARLIEU",
+  "departement": "LOIRE",
+  "email": "mairie.sthilairesouscharlieu@orange.fr"
+},{
+  "name": "SAINT JEAN BONNEFONDS",
+  "departement": "LOIRE",
+  "email": "contact@ville-st-jean-bonnefonds.fr"
+},{
+  "name": "SAINT JEAN LA VETRE",
+  "departement": "LOIRE",
+  "email": "commune-st.jean.lavetre@wanadoo.fr"
+},{
+  "name": "SAINT JEAN SOLEYMIEUX",
+  "departement": "LOIRE",
+  "email": "mairie.saint.jean.soleymieux@wanadoo.fr"
+},{
+  "name": "SAINT JEAN ST MAURICE S/LOIRE",
+  "departement": "Page introuvable",
+  "email": "Page introuvable"
+},{
+  "name": "SAINT JODARD",
+  "departement": "LOIRE",
+  "email": "mairie.st.jodard@wanadoo.fr"
+},{
+  "name": "SAINT JOSEPH",
+  "departement": "LOIRE",
+  "email": "commune.st.joseph@wanadoo.fr"
+},{
+  "name": "SAINT JULIEN D ODDES",
+  "departement": "LOIRE",
+  "email": "mairiestjuliendoddes@wanadoo.fr"
+},{
+  "name": "SAINT JULIEN LA VETRE",
+  "departement": "LOIRE",
+  "email": "stjulienlavetre@wanadoo.fr"
+},{
+  "name": "SAINT JULIEN MOLIN MOLETTE",
+  "departement": "LOIRE",
+  "email": "ma-stjmm@inforoutes-ardeche.fr"
+},{
+  "name": "SAINT JUST EN BAS",
+  "departement": "LOIRE",
+  "email": "mairie.st.just.en.bas@wanadoo.fr"
+},{
+  "name": "SAINT JUST EN CHEVALET",
+  "departement": "LOIRE",
+  "email": "st-just-en-chevalet.mairie@wanadoo.fr"
+},{
+  "name": "SAINT JUST LA PENDUE",
+  "departement": "LOIRE",
+  "email": "mairie.stjust.la.pendue@copler.fr"
+},{
+  "name": "SAINT JUST SAINT RAMBERT",
+  "departement": "LOIRE",
+  "email": "mairie@stjust-strambert.com"
+},{
+  "name": "SAINT LAURENT LA CONCHE",
+  "departement": "LOIRE",
+  "email": "stlaurentlaconche@wimifi.net"
+},{
+  "name": "SAINT LAURENT ROCHEFORT",
+  "departement": "LOIRE",
+  "email": "mairie.stlaurentrochefort@wanadoo.fr"
+},{
+  "name": "SAINT LEGER SUR ROANNE",
+  "departement": "LOIRE",
+  "email": "mairiestleger@free.fr"
+},{
+  "name": "SAINT MARCEL DE FELINES",
+  "departement": "LOIRE",
+  "email": "saintmarceldefelines@orange.fr"
+},{
+  "name": "SAINT MARCEL D URFE",
+  "departement": "LOIRE",
+  "email": "mairie.stmarceldurfe@free.fr"
+},{
+  "name": "SAINT MARCELLIN EN FOREZ",
+  "departement": "LOIRE",
+  "email": "mairie@saintmarcellinenforez.fr"
+},{
+  "name": "SAINT MARTIN D ESTREAUX",
+  "departement": "LOIRE",
+  "email": "mairie.estreaux@orange.fr"
+},{
+  "name": "SAINT MARTIN LA PLAINE",
+  "departement": "LOIRE",
+  "email": "mairiesaintmartinlaplaine@nerim.net"
+},{
+  "name": "SAINT MARTIN LA SAUVETE",
+  "departement": "LOIRE",
+  "email": "mairie.stmartinlasauvete@wanadoo.fr"
+},{
+  "name": "SAINT MARTIN LESTRA",
+  "departement": "LOIRE",
+  "email": "mairie.sml@wanadoo.fr"
+},{
+  "name": "SAINT MAURICE EN GOURGOIS",
+  "departement": "LOIRE",
+  "email": "gourgois@aol.com"
+},{
+  "name": "SAINT MEDARD EN FOREZ",
+  "departement": "LOIRE",
+  "email": "mairie-de-st-medard-en-forez@wanadoo.fr"
+},{
+  "name": "SAINT MICHEL SUR RHONE",
+  "departement": "LOIRE",
+  "email": "mairie-saintmichelsurrhone@wanadoo.fr"
+},{
+  "name": "SAINT NIZIER DE FORNAS",
+  "departement": "LOIRE",
+  "email": "mairie.sndf42@wanadoo.fr"
+},{
+  "name": "SAINT NIZIER SOUS CHARLIEU",
+  "departement": "LOIRE",
+  "email": "mairie.st-nizier-sous-charlieu@wanadoo.fr"
+},{
+  "name": "SAINT PAUL DE VEZELIN",
+  "departement": "LOIRE",
+  "email": "mairie.stpauldevezel@wanadoo.fr"
+},{
+  "name": "SAINT PAUL D UZORE",
+  "departement": "LOIRE",
+  "email": "mairiestpaulduzore@orange.fr"
+},{
+  "name": "SAINT PAUL EN CORNILLON",
+  "departement": "LOIRE",
+  "email": "mairie@ville-stpaulencornillon.fr"
+},{
+  "name": "SAINT PAUL EN JAREZ",
+  "departement": "LOIRE",
+  "email": "mairie@saint-paul-en-jarez.fr"
+},{
+  "name": "SAINT PIERRE DE BOEUF",
+  "departement": "LOIRE",
+  "email": "mairiestpierredeboeuf@wanadoo.fr"
+},{
+  "name": "SAINT PIERRE LA NOAILLE",
+  "departement": "LOIRE",
+  "email": "mairie.st.pierre.la.noaille@wanadoo.fr"
+},{
+  "name": "SAINT POLGUES",
+  "departement": "LOIRE",
+  "email": "mairie.stpolgues@wanadoo.fr"
+},{
+  "name": "SAINT PRIEST EN JAREZ",
+  "departement": "LOIRE",
+  "email": "accueil@mspj.fr"
+},{
+  "name": "SAINT PRIEST LA PRUGNE",
+  "departement": "LOIRE",
+  "email": "mairie.st.priest.la.prugne@wanadoo.fr"
+},{
+  "name": "SAINT PRIEST LA ROCHE",
+  "departement": "LOIRE",
+  "email": "mairie.stpriest.la.roche@copler.fr"
+},{
+  "name": "SAINT PRIEST LA VETRE",
+  "departement": "LOIRE",
+  "email": "stpriestlavetre@wanadoo.fr"
+},{
+  "name": "SAINT REGIS DU COIN",
+  "departement": "LOIRE",
+  "email": "mairie.stregis@wanadoo.fr"
+},{
+  "name": "SAINT RIRAND",
+  "departement": "LOIRE",
+  "email": "communedesaintrirand@orange.fr"
+},{
+  "name": "SAINT ROMAIN D URFE",
+  "departement": "LOIRE",
+  "email": "st.romain.urfe@wanadoo.fr"
+},{
+  "name": "SAINT ROMAIN EN JAREZ",
+  "departement": "LOIRE",
+  "email": "mairie.stromainenjarez@wanadoo.fr"
+},{
+  "name": "SAINT ROMAIN LA MOTTE",
+  "departement": "LOIRE",
+  "email": "mairie-stromainlamotte@voila.fr"
+},{
+  "name": "SAINT ROMAIN LE PUY",
+  "departement": "LOIRE",
+  "email": "sg@mairie-saintromainlepuy.fr"
+},{
+  "name": "SAINT ROMAIN LES ATHEUX",
+  "departement": "LOIRE",
+  "email": "mairie.st.romainlesatheux2@wanadoo.fr"
+},{
+  "name": "SAINT SAUVEUR EN RUE",
+  "departement": "LOIRE",
+  "email": "mairie.st.sauveur.en.rue@inforoutes-ardeche.fr"
+},{
+  "name": "SAINT SIXTE",
+  "departement": "LOIRE",
+  "email": "mairie.stsixte42@wanadoo.fr"
+},{
+  "name": "SAINT SYMPHORIEN DE LAY",
+  "departement": "LOIRE",
+  "email": "mairie.stsymphorien.de.lay@copler.fr"
+},{
+  "name": "SAINT THOMAS LA GARDE",
+  "departement": "LOIRE",
+  "email": "mairie.stthomaslagarde@wanadoo.fr"
+},{
+  "name": "SAINT THURIN",
+  "departement": "LOIRE",
+  "email": "communesaintthurin@wanadoo.fr"
+},{
+  "name": "SAINT VICTOR SUR RHINS",
+  "departement": "LOIRE",
+  "email": "mairie-stvictor.rhins@laposte.net"
+},{
+  "name": "SAINT VINCENT DE BOISSET",
+  "departement": "LOIRE",
+  "email": "mairie.st.vincent.de.bt@wanadoo.fr"
+},{
+  "name": "SALT EN DONZY",
+  "departement": "LOIRE",
+  "email": "saltendonzy@wanadoo.fr"
+},{
+  "name": "SALVIZINET",
+  "departement": "LOIRE",
+  "email": "mairie.salvizinet@wanadoo.fr"
+},{
+  "name": "SAUVAIN",
+  "departement": "LOIRE",
+  "email": "mairie.sauvain@wanadoo.fr"
+},{
+  "name": "SAVIGNEUX",
+  "departement": "LOIRE",
+  "email": "mairie-savigneux@wanadoo.fr"
+},{
+  "name": "SEVELINGES",
+  "departement": "LOIRE",
+  "email": "mairie-sevelinges@wanadoo.fr"
+},{
+  "name": "SOLEYMIEUX",
+  "departement": "LOIRE",
+  "email": "mairie-soleymieux@wanadoo.fr"
+},{
+  "name": "SORBIERS",
+  "departement": "LOIRE",
+  "email": "contact@mairie-sorbiers.fr"
+},{
+  "name": "SOUTERNON",
+  "departement": "LOIRE",
+  "email": "souternonmairie@yahoo.fr"
+},{
+  "name": "SURY LE COMTAL",
+  "departement": "LOIRE",
+  "email": "mairie.sury.le.comtal@wanadoo.fr"
+},{
+  "name": "TARENTAISE",
+  "departement": "LOIRE",
+  "email": "mairie.tarentaise@wanadoo.fr"
+},{
+  "name": "TARTARAS",
+  "departement": "LOIRE",
+  "email": "mairie.tartaras.42@wanadoo.fr"
+},{
+  "name": "THELIS LA COMBE",
+  "departement": "LOIRE",
+  "email": "thelis-la-combe@wanadoo.fr"
+},{
+  "name": "TRELINS",
+  "departement": "LOIRE",
+  "email": "mairie.trelins@wanadoo.fr"
+},{
+  "name": "UNIAS",
+  "departement": "LOIRE",
+  "email": "mairie-unias@wanadoo.fr"
+},{
+  "name": "UNIEUX",
+  "departement": "LOIRE",
+  "email": "mairie-unieux@unieux.fr"
+},{
+  "name": "URBISE",
+  "departement": "LOIRE",
+  "email": "mairie.urbise@wanadoo.fr"
+},{
+  "name": "USSON EN FOREZ",
+  "departement": "LOIRE",
+  "email": "mairie.ussonenforez@wanadoo.fr"
+},{
+  "name": "VALEILLE",
+  "departement": "LOIRE",
+  "email": "mairie.valeille@wanadoo.fr"
+},{
+  "name": "VALFLEURY",
+  "departement": "LOIRE",
+  "email": "mairie-de-valfleury@wanadoo.fr"
+},{
+  "name": "VEAUCHE",
+  "departement": "LOIRE",
+  "email": "mairie.veauche@wanadoo.fr"
+},{
+  "name": "VEAUCHETTE",
+  "departement": "LOIRE",
+  "email": "mairieveauchette@wanadoo.fr"
+},{
+  "name": "VENDRANGES",
+  "departement": "LOIRE",
+  "email": "mairie.vendranges@copler.fr"
+},{
+  "name": "VERANNE",
+  "departement": "LOIRE",
+  "email": "mairie.veranne@wanadoo.fr"
+},{
+  "name": "VERIN",
+  "departement": "LOIRE",
+  "email": "mairiedeverin@wanadoo.fr"
+},{
+  "name": "VERRIERES EN FOREZ",
+  "departement": "LOIRE",
+  "email": "mairieverrieres@wanadoo.fr"
+},{
+  "name": "VILLARS",
+  "departement": "LOIRE",
+  "email": "secretariat@villedevillars.fr"
+},{
+  "name": "VILLEMONTAIS",
+  "departement": "LOIRE",
+  "email": "mairie.villemontais@wanadoo.fr"
+},{
+  "name": "VILLEREST",
+  "departement": "LOIRE",
+  "email": "mairie@villerest.fr"
+},{
+  "name": "VILLERS",
+  "departement": "LOIRE",
+  "email": "villers.commune@wanadoo.fr"
+},{
+  "name": "VIOLAY",
+  "departement": "LOIRE",
+  "email": "mairie.violay.sg@wanadoo.fr"
+},{
+  "name": "VIRICELLES",
+  "departement": "LOIRE",
+  "email": "mairie-de-viricelles@wanadoo.fr"
+},{
+  "name": "VIRIGNEUX",
+  "departement": "LOIRE",
+  "email": "mairie-de-virigneux@wanadoo.fr"
+},{
+  "name": "VIVANS",
+  "departement": "LOIRE",
+  "email": "mairie.vivans@wanadoo.fr"
+},{
+  "name": "VOUGY",
+  "departement": "LOIRE",
+  "email": "vougy.mairie@wanadoo.fr"
+},{
   "name": "AIX EN DIOIS",
   "departement": "DROME",
   "email": "mairie-aix-en-diois@wanadoo.fr"

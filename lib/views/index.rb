@@ -13,10 +13,10 @@ class Index
       print " Voulez-vous afficher les logs ? y pour oui " 
       log = true if gets.chomp == "y"
       print "[Scrapping] .... "
-      #Scrapping.new.perform(log)
+      Scrapping.new.perform(log)
       print "[Mailing] .... "
       mairies = Utils.load_town("town.json")
-      #Mailer.new.perform(mairies,log)
+      Mailer.new.perform(mairies,log)
       print "[Tweeting] .... "
       Follow.new.perform(mairies,log)
    end 

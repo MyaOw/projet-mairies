@@ -24,7 +24,7 @@ end
   
   def perform(log)
     mairies = []
-    array = ["drome", "drome-2"]
+    array = ["rhone", "rhone-2", "loire", "drome", "drome-2"]
     
     array.each do |x|    
 

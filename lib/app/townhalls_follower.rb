@@ -1,10 +1,16 @@
-require 'twitter'
-require 'dotenv'
-Dotenv.load #to loead the keys from the .env file
-
 class Follow
 	attr_accessor :client
+    
+  def perform(mairies,log)
 
+   puts "[Tweeting] Traitement des emails" if log   
+   mairies.each{
+    |mairie| 
+        puts "[Tweeting] Follow la mairie de #{mairie.name}" if log  
+        search_mairie(mairie.name)
+   }
+  end
+    
 	def initialize 
 		@arr #Init a empty array to be used later on
  		@client = Twitter::REST::Client.new do |config| #Init the Twitter account with the keys from the dotenv file
@@ -19,7 +25,6 @@ class Follow
 
 
 	def search_mairie(mairie) #Method to search the townhall in twitter and follow the first result
-		puts mairie
 		@arr = [] # Init an empty array
 
 		@arr = @client.user_search("mairie de #{mairie}") # function to search

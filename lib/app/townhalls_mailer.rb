@@ -7,7 +7,8 @@ class Mailer
    mairies.each{
     |mairie| 
         puts "[Mailing] Envoi un email à la mairie de #{mairie.name}" if log  
-        #send_mail(mairie.email, mairie.name)
+        #send_mail(mairie.email , mairie.name)
+        send_mail(ENV["EMAIL_TEST"] , mairie.name)
   }
   end         
   
