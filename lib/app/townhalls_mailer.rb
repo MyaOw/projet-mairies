@@ -9,7 +9,7 @@ class Mailer
     Gmail.connect(ENV["CONSUMER_KEY"], ENV["CONSUMER_SECRET"]) do |gmail|
     
       email = gmail.compose do
-        to "#{???}"
+        to "#{send_to}"
         subject "The Hacking Project!"
         body "Bonjour,\n
         Nous sommes les Yatsu, élèves à The Hacking Project, une formation au code gratuite, sans locaux, sans sélection, sans restriction géographique. La pédagogie de ntore école est celle du peer-learning, où nous travaillons par petits groupes sur des projets concrets qui font apprendre le code. Le projet du jour est d'envoyer (avec du codage) des emails aux mairies pour qu'ils nous aident à faire de The Hacking Project un nouveau format d'éducation pour tous.\n
