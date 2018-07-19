@@ -42,9 +42,6 @@ end
     mairies.each{
       |mairie| puts "#{mairie.name} #{mairie.departement} #{mairie.email}"
     }
-  
-      
-    end
     
   end
 end
