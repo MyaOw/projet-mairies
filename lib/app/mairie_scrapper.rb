@@ -7,11 +7,10 @@ class Mairie
   end
 
   def as_json(options={})
-        {
-            name: @name,
-            departement: @departement,
-            email: @email
+      return {
+            "name"  =>  @name,
+            "departement"  =>  @departement,
+            "email"  =>  @email
         }
-        
-    end
+  end
 end
