@@ -1,13 +1,13 @@
 require 'twitter'
 require 'dotenv'
-Dotenv.load
+Dotenv.load #to loead the keys from the .env file
 
 class Follow
 	attr_accessor :client
 
 	def initialize 
-		@arr
- 		@client = Twitter::REST::Client.new do |config|
+		@arr #Init a empty array to be used later on
+ 		@client = Twitter::REST::Client.new do |config| #Init the Twitter account with the keys from the dotenv file
  			
 	  	config.consumer_key        = ENV["TWITTER_API_KEY"]
 	  	config.consumer_secret     = ENV["TWITTER_API_SECRET"]
@@ -18,27 +18,13 @@ class Follow
  	end
 
 
-	def search_mairie(mairie)
+	def search_mairie(mairie) #Method to search the townhall in twitter and follow the first result
 		puts mairie
 		@arr = [] # Init an empty array
 
-		#@arr = @client.user_search("mairie de #{mairie}") # Search the name of an
-		 #@arr.each {|c| p @client.follow(c)} 
+		@arr = @client.user_search("mairie de #{mairie}") # function to search
+		@arr.each {|c| p @client.first.follow(c)} #funtion to follow every first name that apears after the search
 	end
-#################"JSON READER################################
-puts "bonjour"
-	
-
-# json = File.read('../../db/scrap.json')
-# nom_mairies = JSON.parse(JSON) # access the JSON file
-# 	nom_mairies(0).each do |name_to_search|
-# 		search_mairie(nam_to_search)
-# 	end
-
-# pp nom_mairies
-
-
-
 
 end #Ends the Twitter class
 
