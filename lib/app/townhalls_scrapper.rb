@@ -32,10 +32,10 @@ end
 
     url_all = departement_page(x)  # Rapporte les pages de département depuis l'array
     url_all.each do |url| 
-      name = url.text   #
-      dep = mairie_dept(url['href'].sub("./", "http://annuaire-des-mairies.com/"))
-      mail = mairie_page(url['href'].sub("./", "http://annuaire-des-mairies.com/")) 
-      mairies.push(Mairie.new(name, dep, mail))
+      name = url.text   # Nom de la mairie
+      dep = mairie_dept(url['href'].sub("./", "http://annuaire-des-mairies.com/"))  # Département de la mairie
+      mail = mairie_page(url['href'].sub("./", "http://annuaire-des-mairies.com/"))   # Mail de la mairie
+      mairies.push(Mairie.new(name, dep, mail))   # Ajoute ces infos dans un array
     end
     end
     
@@ -46,7 +46,7 @@ end
     File.open("../../db/scrap.json","w") do |f|
       mairies.each{
         |mairie|
-        f.write(JSON.pretty_generate(mairie.as_json))
+        f.write(JSON.pretty_generate(mairie.as_json))   # Ajoute les résultats au json
       }
       
     end
