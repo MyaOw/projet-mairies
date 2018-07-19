@@ -11,14 +11,15 @@ Our mission consists on:
 	- Sending those emails
 	- Twitting
 
-###Scrapping the adresses
+### Scrapping the adresses
+
 Uses some crazy algorithms to go and get and index of e-mails from all townhalls in Rhône, Loire and Drôme. Then it gets all of those e-mails and stocks them in a JSON file (oh yeah) sorted by:
 
 - E-mail address
 - Name of the town
 - Name of the county
 
-###Sending those emails
+### Sending those email
 The program sends e-mails like crazy, with the following message:
 >Bonjour,
 >Nous sommes les Yatsu, élèves à The Hacking Project, une formation au code gratuite, sans locaux, sans sélection, sans restriction géographique.
@@ -28,16 +29,16 @@ The program sends e-mails like crazy, with the following message:
 >
 >Charles, co-fondateur de The Hacking Project pourra répondre à toutes vos questions : 06.95.46.60.80
 
-###Twitting
+### Twitting
 Social network can be wonderful to spam people. The Get-Mail-Corp told us to write a script that searchs and follow the first result that appears in twitter when you search the name of the townhall. Crazy, right? But they have the money and we need it.
-
-##More seriously:
+ More seriously:
+-----------------
 
 This is a program that does everything mentionned before, but our team doesn't like getting spammed, so we do NOT spam others either.
 
 To get the program working, this is what you need to do:
 
-###Installation
+### Installation
 
 Clone this repo
 ```sh
@@ -79,7 +80,7 @@ You might need to charge your own Twitter and Gmail credentials in the .env file
 └── README.md
 ```
 
-Licence
+
 
 
 
