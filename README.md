@@ -1,4 +1,4 @@
-How to send a huge amount of spam to your townhall 
+Get-Mail-Corp  v0.0.1
 =================================================
 
 We got hired by a company called Get-Mail-Corp, their motto:
