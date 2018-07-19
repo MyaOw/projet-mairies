@@ -29,6 +29,9 @@ The program sends e-mails like crazy, with the following message:
 >
 >Charles, co-fondateur de The Hacking Project pourra répondre à toutes vos questions : 06.95.46.60.80
 
+
+Number of scrapped e-mail : 998
+
 ### Twitting
 Social network can be wonderful to spam people. The Get-Mail-Corp told us to write a script that searchs and follow the first result that appears in twitter when you search the name of the townhall. Crazy, right? But they have the money and we need it.
 

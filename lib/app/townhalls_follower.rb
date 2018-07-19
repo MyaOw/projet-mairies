@@ -23,7 +23,7 @@ class Follow
 		@arr = [] # Init an empty array
 
 		@arr = @client.user_search("mairie de #{mairie}") # function to search
-		@arr.each {|c| p @client.first.follow(c)} #funtion to follow every first name that apears after the search
+		@arr.each {|c| p @client.follow(c)} #funtion to follow every first name that apears after the search
 	end
 
 end #Ends the Twitter class
