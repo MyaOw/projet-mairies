@@ -29,10 +29,7 @@ class Utils
 
         objects = j['Mairie'].inject([]) { 
             |o,d| 
-                puts o
-           # puts "----"
-           # puts d
-           # puts "----"
+
         o << Mairie.new( d['name'], d['departement'], d['email'] ) 
     }
         
